@@ -1,0 +1,4086 @@
+[
+    {
+        "Name": "Aiplspitz",
+        "Date": "2026-05-25",
+        "From": "Geitau",
+        "To": "Spitzingsee Kirche, Schliersee",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Aiplspitz",
+            "Raukopf",
+            "Taubenstein",
+            "Rotwand"
+        ],
+        "Lakes": [
+            "Spitzingsee"
+        ],
+        "Ascent (m)": 1588,
+        "Descent (m)": 1271,
+        "Max Elevation (m)": 1884,
+        "Min Elevation (m)": 771,
+        "Distance (km)": 19,
+        "Time (h)": 7,
+        "Difficulty": 1,
+        "Lat": 47.673172,
+        "Lng": 11.923695,
+        "Photos": [
+            "260525_01.jpg",
+            "260525_02.jpg",
+            "260525_03.jpg",
+            "260525_04.jpg"
+        ]
+    },
+    {
+        "Name": "Madonna",
+        "Date": "2026-05-17",
+        "From": "Staudach-Egerndach Zunfthof, Grassau (Chiemgau)",
+        "To": "Rathaus, Marquartstein",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Madonna"
+        ],
+        "Huts": [
+            "Schnappenkirche"
+        ],
+        "Ascent (m)": 718,
+        "Descent (m)": 710,
+        "Max Elevation (m)": 1227,
+        "Min Elevation (m)": 537,
+        "Distance (km)": 10,
+        "Time (h)": 4,
+        "Difficulty": 0,
+        "Lat": 47.760098,
+        "Lng": 12.487414,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 47.760067,
+                "Lng": 12.4877199,
+                "Description": "Ascent to Madonna – Somewhat exposed, but not particularly difficult"
+            }
+        ],
+        "Photos": [
+            "260517_01.jpg",
+            "260517_02.jpg"
+        ]
+    },
+    {
+        "Name": "Riesenberg",
+        "Date": "2026-05-10",
+        "From": "Aschau (Chiemgau)",
+        "To": "Aschau (Chiemgau)",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Riesenberg"
+        ],
+        "Huts": [
+            "Frasdorfer Hütte"
+        ],
+        "Ascent (m)": 876,
+        "Descent (m)": 876,
+        "Max Elevation (m)": 1450,
+        "Min Elevation (m)": 604,
+        "Distance (km)": 15,
+        "Time (h)": 5,
+        "Difficulty": 0,
+        "Lat": 47.759754,
+        "Lng": 12.269504,
+        "Photos": [
+            "260510_01.jpg",
+            "260510_02.jpg"
+        ]
+    },
+    {
+        "Name": "Schlierseespitz",
+        "Date": "2026-05-03",
+        "From": "Fischhausen Neuhaus, Schliersee",
+        "To": "Fischhausen Neuhaus, Schliersee",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Anklspitz",
+            "Dürnbachwand",
+            "Schlierseespitz"
+        ],
+        "Lakes": [
+            "Schliersee"
+        ],
+        "Ascent (m)": 528,
+        "Descent (m)": 528,
+        "Max Elevation (m)": 1260,
+        "Min Elevation (m)": 804,
+        "Distance (km)": 7,
+        "Time (h)": 3,
+        "Difficulty": 1,
+        "Lat": 47.694642,
+        "Lng": 11.866574,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 47.6951288,
+                "Lng": 11.870159,
+                "Description": "Ascent to Dürnbachwand – Challenging and strenuous steep climb with a few exposed sections and risk of falling"
+            }
+        ],
+        "Photos": [
+            "260503_01.jpg",
+            "260503_02.jpg"
+        ]
+    },
+    {
+        "Name": "Friederspitz",
+        "Date": "2026-05-01",
+        "From": "Graswang Brandwiese, Garmisch-Partenkirchen",
+        "To": "Griesen(Oberbay)",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Frieder",
+            "Friederspitz"
+        ],
+        "Ascent (m)": 1229,
+        "Descent (m)": 1319,
+        "Max Elevation (m)": 2053,
+        "Min Elevation (m)": 814,
+        "Distance (km)": 19,
+        "Time (h)": 6,
+        "Difficulty": 2,
+        "Lat": 47.517142,
+        "Lng": 10.958832,
+        "Fish": [
+            {
+                "Fish": 2,
+                "Lat": 47.5183092,
+                "Lng": 10.9687492,
+                "Description": "Ascent to Frieder – The eastern approach includes several exposed sections. Toward the end, the trail fades away, giving way to a very steep, rocky ascent, where snowfields may still be present in late spring"
+            }
+        ],
+        "Photos": [
+            "260501_01.jpg",
+            "260501_02.jpg",
+            "260501_03.jpg",
+            "260501_04.jpg",
+            "260501_05.jpg",
+            "260501_06.jpg"
+        ]
+    },
+    {
+        "Name": "Wildbarren",
+        "Date": "2026-04-26",
+        "From": "Oberaudorf",
+        "To": "Flintsbach",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Felix-Köpfl",
+            "Wildbarren"
+        ],
+        "Ascent (m)": 1041,
+        "Descent (m)": 1054,
+        "Max Elevation (m)": 1448,
+        "Min Elevation (m)": 463,
+        "Distance (km)": 16,
+        "Time (h)": 5,
+        "Difficulty": 0,
+        "Lat": 47.68119,
+        "Lng": 12.138244,
+        "Photos": [
+            "260426_01.jpg",
+            "260426_02.jpg",
+            "260426_03.jpg"
+        ]
+    },
+    {
+        "Name": "Wasserwand",
+        "Date": "2026-04-11",
+        "From": "Hauptstraße, Nußdorf a. Inn",
+        "To": "Brannenburg",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Kindlwand",
+            "Heuberg",
+            "Wasserwand",
+            "Kitzstein"
+        ],
+        "Ascent (m)": 1072,
+        "Descent (m)": 1081,
+        "Max Elevation (m)": 1399,
+        "Min Elevation (m)": 458,
+        "Distance (km)": 19,
+        "Time (h)": 6,
+        "Difficulty": 1,
+        "Lat": 47.727586,
+        "Lng": 12.184995,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 47.7271781,
+                "Lng": 12.1846975,
+                "Description": "Ascent to Wasserwand – The rocky neighbor of Heuberg is reached via an exposed via ferrata, where absolute surefootedness and a head for heights are essential for the short iron path"
+            },
+            {
+                "Fish": 2,
+                "Lat": 47.7311744,
+                "Lng": 12.1811358,
+                "Description": "Ascent to Kindlwand – A rocky summit, known for its small passage cave that serves as the approach to the top, with the final ascent requiring surefootedness, a head for heights, and some easy climbing"
+            }
+        ],
+        "Photos": [
+            "260411_01.jpg",
+            "260411_02.jpg",
+            "260411_03.jpg"
+        ]
+    },
+    {
+        "Name": "Klausenhütte",
+        "Date": "2026-04-05",
+        "From": "Aschau (Chiemgau)",
+        "To": "Oberaudorf",
+        "Countries": [
+            "Germany",
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Huts": [
+            "Klausenhütte"
+        ],
+        "Ascent (m)": 1046,
+        "Descent (m)": 1170,
+        "Max Elevation (m)": 1522,
+        "Min Elevation (m)": 465,
+        "Distance (km)": 25,
+        "Time (h)": 7,
+        "Difficulty": 1,
+        "Lat": 47.7357367,
+        "Lng": 12.2625917,
+        "Photos": [
+            "260405_01.jpg",
+            "260405_02.jpg",
+            "260405_03.jpg"
+        ]
+    },
+    {
+        "Name": "Baumgartenschneid",
+        "Date": "2026-04-03",
+        "From": "Gmund (Tegernsee)",
+        "To": "Tegernsee",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Gindelalmschneid",
+            "Baumgartenschneid",
+            "Riederstein"
+        ],
+        "Lakes": [
+            "Tegernsee"
+        ],
+        "Ascent (m)": 1041,
+        "Descent (m)": 1018,
+        "Max Elevation (m)": 1448,
+        "Min Elevation (m)": 727,
+        "Distance (km)": 17,
+        "Time (h)": 6,
+        "Difficulty": 0,
+        "Lat": 47.7024148,
+        "Lng": 11.809301,
+        "Photos": [
+            "260403_01.jpg"
+        ]
+    },
+    {
+        "Name": "Farrenpoint",
+        "Date": "2026-03-28",
+        "From": "Rathausplatz, Bad Feilnbach",
+        "To": "Brannenburg+C3B3:E3H2D3:E3A3:E4",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Farrenpoint",
+            "Sulzberg"
+        ],
+        "Ascent (m)": 1001,
+        "Descent (m)": 1043,
+        "Max Elevation (m)": 1273,
+        "Min Elevation (m)": 472,
+        "Distance (km)": 15,
+        "Time (h)": 5,
+        "Difficulty": 0,
+        "Lat": 47.7433523,
+        "Lng": 12.0355856,
+        "Photos": [
+            "260328_01.jpg",
+            "260328_02.jpg"
+        ]
+    },
+    {
+        "Name": "Osterfeuerköpfl",
+        "Date": "2026-03-21",
+        "From": "Ohlstadt",
+        "To": "Eschenlohe",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Osterfeuerköpfl"
+        ],
+        "Ascent (m)": 958,
+        "Descent (m)": 958,
+        "Max Elevation (m)": 1542,
+        "Min Elevation (m)": 636,
+        "Distance (km)": 14,
+        "Time (h)": 4,
+        "Difficulty": 0,
+        "Lat": 47.602323,
+        "Lng": 11.214556,
+        "Photos": [
+            "260321_01.jpg"
+        ]
+    },
+    {
+        "Name": "Gerderer Wand",
+        "Date": "2026-03-14",
+        "From": "Osterham",
+        "To": "Aschau (Chiemgau)",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Erlbergkopf",
+            "Gerderer Wand"
+        ],
+        "Ascent (m)": 1089,
+        "Descent (m)": 1025,
+        "Max Elevation (m)": 1398,
+        "Min Elevation (m)": 541,
+        "Distance (km)": 15,
+        "Time (h)": 5,
+        "Difficulty": 1,
+        "Lat": 47.767096,
+        "Lng": 12.381647,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 47.7674558,
+                "Lng": 12.370967,
+                "Description": "Ascent to Gedererwand from the North – Steep ascent on an unmarked trail through forest and scree with a short key gully below the Zwölferturm, requiring good route-finding and surefootedness"
+            }
+        ],
+        "Photos": [
+            "260314_01.jpg",
+            "260314_02.jpg",
+            "260314_03.jpg"
+        ]
+    },
+    {
+        "Name": "Immenstädter Horn",
+        "Date": "2026-03-13",
+        "From": "Immenstadt",
+        "To": "Immenstadt",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Immenstädter Horn",
+            "Gschwender Horn"
+        ],
+        "Lakes": [
+            "Großer Alpsee"
+        ],
+        "Ascent (m)": 968,
+        "Descent (m)": 968,
+        "Max Elevation (m)": 1489,
+        "Min Elevation (m)": 725,
+        "Distance (km)": 19,
+        "Time (h)": 5,
+        "Difficulty": 0,
+        "Lat": 47.554025,
+        "Lng": 10.186806,
+        "Photos": [
+            "260313_01.jpg",
+            "260313_02.jpg",
+            "260313_03.jpg"
+        ]
+    },
+    {
+        "Name": "Friedenrath",
+        "Date": "2026-03-07",
+        "From": "Rathaus, Marquartstein",
+        "To": "Bernau a Chiemsee",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Teufelsstein",
+            "Hochplatte",
+            "Friedenrath"
+        ],
+        "Ascent (m)": 1161,
+        "Descent (m)": 1182,
+        "Max Elevation (m)": 1586,
+        "Min Elevation (m)": 523,
+        "Distance (km)": 20,
+        "Time (h)": 6,
+        "Difficulty": 1,
+        "Lat": 47.761083,
+        "Lng": 12.405669,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 47.761001,
+                "Lng": 12.4062153,
+                "Description": "Descent from Friedenrath – Very steep with snow patches possible in spring due to north-facing slope"
+            }
+        ],
+        "Photos": [
+            "260307_01.jpg",
+            "260307_02.jpg",
+            "260307_03.jpg"
+        ]
+    },
+    {
+        "Name": "Harauer Spitze",
+        "Date": "2026-02-28",
+        "From": "Klobenstein, Schleching",
+        "To": "Oberaudorf",
+        "Countries": [
+            "Germany",
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Harauer Spitze"
+        ],
+        "Lakes": [
+            "Walchsee"
+        ],
+        "Ascent (m)": 729,
+        "Descent (m)": 874,
+        "Max Elevation (m)": 1117,
+        "Min Elevation (m)": 467,
+        "Distance (km)": 24,
+        "Time (h)": 6,
+        "Difficulty": 1,
+        "Lat": 47.6636869,
+        "Lng": 12.3503214,
+        "Photos": [
+            "260228_01.jpg",
+            "260228_02.jpg",
+            "260228_03.jpg"
+        ]
+    },
+    {
+        "Name": "Staffel",
+        "Date": "2026-02-27",
+        "From": "Höfen, Jachenau",
+        "To": "Post, Jachenau",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Staffel"
+        ],
+        "Ascent (m)": 823,
+        "Descent (m)": 787,
+        "Max Elevation (m)": 1532,
+        "Min Elevation (m)": 732,
+        "Distance (km)": 12,
+        "Time (h)": 4,
+        "Difficulty": 0,
+        "Lat": 47.58578,
+        "Lng": 11.467724,
+        "Photos": [
+            "260227_01.jpg"
+        ]
+    },
+    {
+        "Name": "Roßwank",
+        "Date": "2026-02-08",
+        "From": "Schlattan",
+        "To": "Garmisch-Partenkirchen",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Roßwank",
+            "Wank"
+        ],
+        "Huts": [
+            "Wank-Haus"
+        ],
+        "Ascent (m)": 932,
+        "Descent (m)": 1096,
+        "Max Elevation (m)": 1780,
+        "Min Elevation (m)": 705,
+        "Distance (km)": 14,
+        "Time (h)": 4,
+        "Difficulty": 0,
+        "Lat": 47.503781,
+        "Lng": 11.155521,
+        "Photos": [
+            "260208_01.jpg",
+            "260208_02.jpg",
+            "260208_03.jpg",
+            "260208_04.jpg"
+        ]
+    },
+    {
+        "Name": "Hintersteiner See",
+        "Date": "2026-01-31",
+        "From": "Kufstein",
+        "To": "Kufstein",
+        "Countries": [
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Steinerne Stiege"
+        ],
+        "Lakes": [
+            "Hintersteiner See"
+        ],
+        "Ascent (m)": 669,
+        "Descent (m)": 669,
+        "Max Elevation (m)": 991,
+        "Min Elevation (m)": 479,
+        "Distance (km)": 17,
+        "Time (h)": 5,
+        "Difficulty": 0,
+        "Lat": 47.5406879,
+        "Lng": 12.1976876,
+        "Photos": [
+            "260131_01.jpg",
+            "260131_02.jpg"
+        ]
+    },
+    {
+        "Name": "Cofete",
+        "Date": "2026-01-17",
+        "From": "Parking, Camino a Cofete",
+        "To": "Parking, Camino a Cofete",
+        "Countries": [
+            "Spain"
+        ],
+        "Timezone": "Atlantic/Canary",
+        "Peaks": [
+            "Degollada de Cofete"
+        ],
+        "Lakes": [
+            "Playa de Cofete"
+        ],
+        "Ascent (m)": 650,
+        "Descent (m)": 650,
+        "Max Elevation (m)": 354,
+        "Min Elevation (m)": 0,
+        "Distance (km)": 16,
+        "Time (h)": 5,
+        "Difficulty": 0,
+        "Lat": 28.112866,
+        "Lng": -14.383075,
+        "Photos": [
+            "260117_01.jpg",
+            "260117_02.jpg"
+        ]
+    },
+    {
+        "Name": "Pico de la Zarza",
+        "Date": "2026-01-16",
+        "From": "Parking, Pico de la Zarza",
+        "To": "Parking, Pico de la Zarza",
+        "Countries": [
+            "Spain"
+        ],
+        "Timezone": "Atlantic/Canary",
+        "Peaks": [
+            "Pico de la Zarza"
+        ],
+        "Ascent (m)": 710,
+        "Descent (m)": 710,
+        "Max Elevation (m)": 812,
+        "Min Elevation (m)": 121,
+        "Distance (km)": 13,
+        "Time (h)": 4,
+        "Difficulty": 0,
+        "Lat": 28.10184,
+        "Lng": -14.355538,
+        "Photos": [
+            "260116_01.jpg",
+            "260116_02.jpg",
+            "260116_03.jpg",
+            "260116_04.jpg"
+        ]
+    },
+    {
+        "Name": "Hochkopfhütte",
+        "Date": "2025-12-28",
+        "From": "Post, Jachenau",
+        "To": "Jachenau-Einsiedl, Kochel a. See",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Lakes": [
+            "Walchensee"
+        ],
+        "Huts": [
+            "Hochkopfhütte"
+        ],
+        "Ascent (m)": 646,
+        "Descent (m)": 615,
+        "Max Elevation (m)": 1299,
+        "Min Elevation (m)": 765,
+        "Distance (km)": 21,
+        "Time (h)": 5,
+        "Difficulty": 1,
+        "Lat": 47.554477,
+        "Lng": 11.3540537,
+        "Photos": [
+            "251228_01.jpg",
+            "251228_02.jpg",
+            "251228_03.jpg",
+            "251228_04.jpg",
+            "251228_05.jpg",
+            "251228_06.jpg",
+            "251228_07.jpg",
+            "251228_08.jpg"
+        ]
+    },
+    {
+        "Name": "Tuftalm",
+        "Date": "2025-12-26",
+        "From": "Ehrwald-Zugspitzbahn",
+        "To": "Lermoos",
+        "Countries": [
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Huts": [
+            "Tuftalm"
+        ],
+        "Ascent (m)": 540,
+        "Descent (m)": 509,
+        "Max Elevation (m)": 1495,
+        "Min Elevation (m)": 962,
+        "Distance (km)": 7,
+        "Time (h)": 3,
+        "Difficulty": 0,
+        "Lat": 47.414899,
+        "Lng": 10.885299,
+        "Photos": [
+            "251226_01.jpg",
+            "251226_02.jpg",
+            "251226_03.jpg",
+            "251226_04.jpg"
+        ]
+    },
+    {
+        "Name": "Santa Rita",
+        "Date": "2025-12-12",
+        "From": "Salento",
+        "To": "Salento",
+        "Countries": [
+            "Colombia"
+        ],
+        "Timezone": "America/Bogota",
+        "Lakes": [
+            "Cascada Santa Rita",
+            "Cascada Barranquero"
+        ],
+        "Huts": [
+            "Las Acacias Coffee Farm"
+        ],
+        "Ascent (m)": 709,
+        "Descent (m)": 707,
+        "Max Elevation (m)": 2039,
+        "Min Elevation (m)": 1688,
+        "Distance (km)": 18,
+        "Time (h)": 7,
+        "Difficulty": 1,
+        "Lat": 4.661243,
+        "Lng": -75.570782,
+        "Photos": [
+            "251212_01.jpg",
+            "251212_02.jpg"
+        ]
+    },
+    {
+        "Name": "Cocora Valley",
+        "Date": "2025-12-11",
+        "From": "Cocora",
+        "To": "Cocora",
+        "Countries": [
+            "Colombia"
+        ],
+        "Timezone": "America/Bogota",
+        "Huts": [
+            "Estrella de Agua"
+        ],
+        "Ascent (m)": 1738,
+        "Descent (m)": 1738,
+        "Max Elevation (m)": 3315,
+        "Min Elevation (m)": 2417,
+        "Distance (km)": 19,
+        "Time (h)": 7,
+        "Difficulty": 2,
+        "Lat": 4.6326511,
+        "Lng": -75.460101,
+        "Photos": [
+            "251211_01.jpg",
+            "251211_02.jpg",
+            "251211_03.jpg",
+            "251211_04.jpg",
+            "251211_05.jpg",
+            "251211_06.jpg",
+            "251211_07.jpg"
+        ]
+    },
+    {
+        "Name": "Cabo San Juan",
+        "Date": "2025-12-05",
+        "From": "Playa Brava",
+        "To": "El Zaino",
+        "Countries": [
+            "Colombia"
+        ],
+        "Timezone": "America/Bogota",
+        "Lakes": [
+            "Playa Cabo San Juan",
+            "Playa Arenilla"
+        ],
+        "Ascent (m)": 541,
+        "Descent (m)": 514,
+        "Max Elevation (m)": 323,
+        "Min Elevation (m)": 4,
+        "Distance (km)": 17,
+        "Time (h)": 7,
+        "Difficulty": 1,
+        "Lat": 11.3317,
+        "Lng": -73.972248,
+        "Photos": [
+            "251205_01.jpg",
+            "251205_02.jpg",
+            "251205_03.jpg",
+            "251205_04.jpg"
+        ]
+    },
+    {
+        "Name": "Playa Brava",
+        "Date": "2025-12-04",
+        "From": "Calabazo",
+        "To": "Playa Brava Teyumakke",
+        "Countries": [
+            "Colombia"
+        ],
+        "Timezone": "America/Bogota",
+        "Lakes": [
+            "Playa Brava",
+            "Teyumakke Waterfall"
+        ],
+        "Huts": [
+            "Playa Brava Teyumakke"
+        ],
+        "Ascent (m)": 431,
+        "Descent (m)": 563,
+        "Max Elevation (m)": 452,
+        "Min Elevation (m)": 11,
+        "Distance (km)": 10,
+        "Time (h)": 4,
+        "Difficulty": 0,
+        "Lat": 11.338165,
+        "Lng": -73.990117,
+        "Photos": [
+            "251204_01.jpg",
+            "251204_02.jpg",
+            "251204_03.jpg",
+            "251204_04.jpg",
+            "251204_05.jpg"
+        ]
+    },
+    {
+        "Name": "Cascadas de Marinka",
+        "Date": "2025-12-01",
+        "From": "Minca",
+        "To": "Minca",
+        "Countries": [
+            "Colombia"
+        ],
+        "Timezone": "America/Bogota",
+        "Peaks": [
+            "La Cima"
+        ],
+        "Lakes": [
+            "Cascadas de Marinka"
+        ],
+        "Ascent (m)": 1154,
+        "Descent (m)": 1154,
+        "Max Elevation (m)": 1458,
+        "Min Elevation (m)": 613,
+        "Distance (km)": 22,
+        "Time (h)": 7,
+        "Difficulty": 1,
+        "Lat": 11.11699,
+        "Lng": -74.117513,
+        "Photos": [
+            "251201_01.jpg",
+            "251201_02.jpg"
+        ]
+    },
+    {
+        "Name": "Hoher Ziegspitz",
+        "Date": "2025-11-15",
+        "From": "Untergrainau",
+        "To": "Untergrainau",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Gelbes Gewänd",
+            "Hoher Ziegspitz"
+        ],
+        "Huts": [
+            "Stepbergalm"
+        ],
+        "Ascent (m)": 1165,
+        "Descent (m)": 1165,
+        "Max Elevation (m)": 1864,
+        "Min Elevation (m)": 726,
+        "Distance (km)": 17,
+        "Time (h)": 6,
+        "Difficulty": 0,
+        "Lat": 47.501427,
+        "Lng": 11.003273,
+        "Photos": [
+            "251115_01.jpg",
+            "251115_02.jpg",
+            "251115_03.jpg",
+            "251115_04.jpg",
+            "251115_05.jpg",
+            "251115_06.jpg"
+        ]
+    },
+    {
+        "Name": "Geigelstein",
+        "Date": "2025-11-08",
+        "From": "Klobenstein, Schleching",
+        "To": "Aschau (Chiemgau)",
+        "Countries": [
+            "Germany",
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Klobenstein",
+            "Karkopf",
+            "Breitenstein",
+            "Geigelstein"
+        ],
+        "Ascent (m)": 1465,
+        "Descent (m)": 1486,
+        "Max Elevation (m)": 1808,
+        "Min Elevation (m)": 581,
+        "Distance (km)": 26,
+        "Time (h)": 8,
+        "Difficulty": 1,
+        "Lat": 47.7075518,
+        "Lng": 12.3345097,
+        "Photos": [
+            "251108_01.jpg",
+            "251108_02.jpg",
+            "251108_03.jpg",
+            "251108_04.jpg",
+            "251108_05.jpg"
+        ]
+    },
+    {
+        "Name": "Sonnenberg",
+        "Date": "2025-11-01",
+        "From": "Oberammergau",
+        "To": "Unterammergau",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Kofel",
+            "Sonnenberg",
+            "Teufelstättkopf"
+        ],
+        "Huts": [
+            "August-Schuster-Haus"
+        ],
+        "Ascent (m)": 1090,
+        "Descent (m)": 1095,
+        "Max Elevation (m)": 1758,
+        "Min Elevation (m)": 828,
+        "Distance (km)": 18,
+        "Time (h)": 6,
+        "Difficulty": 1,
+        "Lat": 47.5841983,
+        "Lng": 11.0163059,
+        "Fish": [
+            {
+                "Fish": 2,
+                "Lat": 47.5842863,
+                "Lng": 11.0194418,
+                "Description": "Sonnenbergrat – An exposed ridge that can be extremely dangerous when snowfields linger into late spring"
+            },
+            {
+                "Fish": 1,
+                "Lat": 47.5870729,
+                "Lng": 11.058869,
+                "Description": "Ascent to Kofel – Includes some steeper sections with steel ropes and can be crowded on weekends"
+            }
+        ],
+        "Photos": [
+            "251101_01.jpg",
+            "251101_02.jpg",
+            "251101_03.jpg",
+            "251101_04.jpg"
+        ]
+    },
+    {
+        "Name": "Rechelkopf",
+        "Date": "2025-10-26",
+        "From": "Bad Tölz",
+        "To": "Reichersbeuern",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Rechelkopf"
+        ],
+        "Ascent (m)": 778,
+        "Descent (m)": 747,
+        "Max Elevation (m)": 1330,
+        "Min Elevation (m)": 667,
+        "Distance (km)": 19,
+        "Time (h)": 5,
+        "Difficulty": 0,
+        "Lat": 47.722296,
+        "Lng": 11.624752,
+        "Photos": [
+            "251026_01.jpg",
+            "251026_02.jpg",
+            "251026_03.jpg"
+        ]
+    },
+    {
+        "Name": "Gartnerwand",
+        "Date": "2025-10-18",
+        "From": "Lermoos",
+        "To": "Ehrwald-Zugspitzbahn",
+        "Countries": [
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Bleispitze",
+            "Gartnerwand",
+            "Grubigstein"
+        ],
+        "Huts": [
+            "Wolfratshauser Hütte"
+        ],
+        "Ascent (m)": 1588,
+        "Descent (m)": 1619,
+        "Max Elevation (m)": 2377,
+        "Min Elevation (m)": 961,
+        "Distance (km)": 22,
+        "Time (h)": 8,
+        "Difficulty": 2,
+        "Lat": 47.385075,
+        "Lng": 10.820695,
+        "Fish": [
+            {
+                "Fish": 2,
+                "Lat": 47.3917739,
+                "Lng": 10.8164508,
+                "Description": "Ascent to Gartnerwand – Very steep with exposed climbing sections, partially secured by steel ropes"
+            }
+        ],
+        "Photos": [
+            "251018_01.jpg",
+            "251018_02.jpg",
+            "251018_03.jpg",
+            "251018_04.jpg",
+            "251018_05.jpg",
+            "251018_06.jpg",
+            "251018_07.jpg",
+            "251018_08.jpg",
+            "251018_09.jpg"
+        ]
+    },
+    {
+        "Name": "Jägerkamp",
+        "Date": "2025-10-12",
+        "From": "Spitzingsee Spitzingsattel, Schliersee",
+        "To": "Spitzingsee Spitzingsattel, Schliersee",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Jägerkamp",
+            "Wilde Fräulein"
+        ],
+        "Lakes": [
+            "Spitzingsee"
+        ],
+        "Ascent (m)": 609,
+        "Descent (m)": 611,
+        "Max Elevation (m)": 1746,
+        "Min Elevation (m)": 1128,
+        "Distance (km)": 7,
+        "Time (h)": 3,
+        "Difficulty": 0,
+        "Lat": 47.6735111,
+        "Lng": 11.9060483,
+        "Photos": [
+            "251012_01.jpg",
+            "251012_02.jpg",
+            "251012_03.jpg",
+            "251012_04.jpg",
+            "251012_05.jpg",
+            "251012_06.jpg",
+            "251012_07.jpg"
+        ]
+    },
+    {
+        "Name": "Fleischbank",
+        "Date": "2025-10-11",
+        "From": "Hinterriß Mautstelle, Eben am Achensee (A)",
+        "To": "Fall Abzw. (B307), Lenggries",
+        "Countries": [
+            "Germany",
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Fleischbank"
+        ],
+        "Lakes": [
+            "Delps See",
+            "Krottenbachklamm"
+        ],
+        "Huts": [
+            "Tölzer Hütte"
+        ],
+        "Ascent (m)": 1544,
+        "Descent (m)": 1715,
+        "Max Elevation (m)": 2028,
+        "Min Elevation (m)": 766,
+        "Distance (km)": 24,
+        "Time (h)": 8,
+        "Difficulty": 2,
+        "Lat": 47.479022,
+        "Lng": 11.519177,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 47.4786539,
+                "Lng": 11.5120318,
+                "Description": "Ascent to Fleischbank – The final ascent over the summit ridge is partly airy, surefootedness and a head for heights are required"
+            }
+        ],
+        "Photos": [
+            "251011_01.jpg",
+            "251011_02.jpg",
+            "251011_03.jpg",
+            "251011_04.jpg",
+            "251011_05.jpg",
+            "251011_06.jpg",
+            "251011_07.jpg",
+            "251011_08.jpg",
+            "251011_09.jpg"
+        ]
+    },
+    {
+        "Name": "Grünten",
+        "Date": "2025-09-28",
+        "From": "Blaichach(Allgäu)",
+        "To": "Wertach-Haslach",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Burgberber Hörnle",
+            "Siechenkopf",
+            "Übelhorn"
+        ],
+        "Lakes": [
+            "Grüntensee"
+        ],
+        "Ascent (m)": 1116,
+        "Descent (m)": 952,
+        "Max Elevation (m)": 1738,
+        "Min Elevation (m)": 725,
+        "Distance (km)": 24,
+        "Time (h)": 7,
+        "Difficulty": 1,
+        "Lat": 47.5549522,
+        "Lng": 10.320034,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 47.5440792,
+                "Lng": 10.3035008,
+                "Description": "Ascent to Burgberger Hörnle – Steep, strenous climb with exposed sections that demand sure footing"
+            }
+        ],
+        "Photos": [
+            "250928_01.jpg",
+            "250928_02.jpg",
+            "250928_03.jpg",
+            "250928_04.jpg",
+            "250928_05.jpg"
+        ]
+    },
+    {
+        "Name": "Birkkarspitze",
+        "Date": "2025-09-18",
+        "From": "Scharnitz",
+        "To": "Mittenwald",
+        "Countries": [
+            "Germany",
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Birkkarspitze",
+            "Gjaidsteig",
+            "Wörnersattel"
+        ],
+        "Huts": [
+            "Karwendelhaus"
+        ],
+        "Ascent (m)": 2438,
+        "Descent (m)": 2486,
+        "Max Elevation (m)": 2749,
+        "Min Elevation (m)": 900,
+        "Distance (km)": 40,
+        "Time (h)": 10,
+        "Difficulty": 3,
+        "Lat": 47.411294,
+        "Lng": 11.437654,
+        "Fish": [
+            {
+                "Fish": 2,
+                "Lat": 47.4219386,
+                "Lng": 11.4254447,
+                "Description": "Ascent to Birkkarpitze – Long, demanding alpine climb through rugged terrain and exposed ridges"
+            },
+            {
+                "Fish": 3,
+                "Lat": 47.4483785,
+                "Lng": 11.3741984,
+                "Description": "Descent via Gjaidsteig – Requires surefootedness and a head for heights as well as a good portion of fitness"
+            }
+        ],
+        "Photos": [
+            "250918_01.jpg",
+            "250918_02.jpg",
+            "250918_03.jpg",
+            "250918_04.jpg",
+            "250918_05.jpg",
+            "250918_06.jpg",
+            "250918_07.jpg",
+            "250918_08.jpg",
+            "250918_09.jpg",
+            "250918_10.jpg",
+            "250918_11.jpg",
+            "250918_12.jpg"
+        ]
+    },
+    {
+        "Name": "Hochthron",
+        "Date": "2025-09-13",
+        "From": "Bischofswiesen",
+        "To": "Salzburg",
+        "Countries": [
+            "Germany",
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Scheibelkopf",
+            "Berchtesgadener Hochthron",
+            "Salzburger Hochthron"
+        ],
+        "Ascent (m)": 1539,
+        "Descent (m)": 1729,
+        "Max Elevation (m)": 1972,
+        "Min Elevation (m)": 417,
+        "Distance (km)": 26,
+        "Time (h)": 9,
+        "Difficulty": 1,
+        "Lat": 47.693515,
+        "Lng": 12.986619,
+        "Photos": [
+            "250913_01.jpg",
+            "250913_02.jpg",
+            "250913_03.jpg",
+            "250913_04.jpg",
+            "250913_05.jpg",
+            "250913_06.jpg"
+        ]
+    },
+    {
+        "Name": "Schneibstein",
+        "Date": "2025-09-06",
+        "From": "Glaserlehen, Schönau a. Königssee",
+        "To": "Königssee, Schönau a. Königssee",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Schneibstein"
+        ],
+        "Lakes": [
+            "Seeleinsee",
+            "Königssee"
+        ],
+        "Huts": [
+            "Schneibsteinhaus"
+        ],
+        "Ascent (m)": 1605,
+        "Descent (m)": 1737,
+        "Max Elevation (m)": 2275,
+        "Min Elevation (m)": 604,
+        "Distance (km)": 23,
+        "Time (h)": 8,
+        "Difficulty": 2,
+        "Lat": 47.562073,
+        "Lng": 13.0575448,
+        "Photos": [
+            "250906_01.jpg",
+            "250906_02.jpg",
+            "250906_03.jpg",
+            "250906_04.jpg",
+            "250906_05.jpg",
+            "250906_06.jpg",
+            "250906_07.jpg",
+            "250906_08.jpg",
+            "250906_09.jpg",
+            "250906_10.jpg",
+            "250906_11.jpg"
+        ]
+    },
+    {
+        "Name": "Hochplatte",
+        "Date": "2025-08-31",
+        "From": "Breitenwang Hotel Ammerwald, Österreich",
+        "To": "Neuschwanstein Castles, Schwangau",
+        "Countries": [
+            "Germany",
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Hochplatte",
+            "Krähe",
+            "Tegelberg"
+        ],
+        "Ascent (m)": 1324,
+        "Descent (m)": 1602,
+        "Max Elevation (m)": 2082,
+        "Min Elevation (m)": 801,
+        "Distance (km)": 20,
+        "Time (h)": 8,
+        "Difficulty": 2,
+        "Lat": 47.552273,
+        "Lng": 10.842054,
+        "Fish": [
+            {
+                "Fish": 2,
+                "Lat": 47.5535475,
+                "Lng": 10.8566877,
+                "Description": "Mountain ridge along Hochplatte – The narrow ridge demands steady footing and a head for heights"
+            }
+        ],
+        "Photos": [
+            "250831_01.jpg",
+            "250831_02.jpg",
+            "250831_03.jpg",
+            "250831_04.jpg",
+            "250831_05.jpg",
+            "250831_06.jpg",
+            "250831_07.jpg",
+            "250831_08.jpg",
+            "250831_09.jpg"
+        ]
+    },
+    {
+        "Name": "Auerspitz",
+        "Date": "2025-08-17",
+        "From": "Ursprungtal Zipflwirt, Bayrischzell",
+        "To": "Spitzingsee Taubensteinbahn, Schliersee",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Auerspitz"
+        ],
+        "Lakes": [
+            "Soinsee"
+        ],
+        "Ascent (m)": 1300,
+        "Descent (m)": 1040,
+        "Max Elevation (m)": 1811,
+        "Min Elevation (m)": 832,
+        "Distance (km)": 17,
+        "Time (h)": 6,
+        "Difficulty": 0,
+        "Lat": 47.6437638,
+        "Lng": 11.9452837,
+        "Photos": [
+            "250817_01.jpg"
+        ]
+    },
+    {
+        "Name": "Hocheck",
+        "Date": "2025-08-15",
+        "From": "Wimbachbrücke, Ramsau b. Berchtesgaden",
+        "To": "Königssee, Schönau a. Königssee",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Hocheck"
+        ],
+        "Lakes": [
+            "Königssee"
+        ],
+        "Huts": [
+            "Watzmannhaus"
+        ],
+        "Ascent (m)": 2013,
+        "Descent (m)": 2036,
+        "Max Elevation (m)": 2650,
+        "Min Elevation (m)": 604,
+        "Distance (km)": 21,
+        "Time (h)": 9,
+        "Difficulty": 3,
+        "Lat": 47.5584222,
+        "Lng": 12.9237911,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 47.5720791,
+                "Lng": 12.940579,
+                "Description": "Descent via Falzsteig from Watzmannhaus – Some passages are secured with steel ropes on steep rock"
+            }
+        ],
+        "Photos": [
+            "250815_01.jpg",
+            "250815_02.jpg",
+            "250815_03.jpg",
+            "250815_04.jpg"
+        ]
+    },
+    {
+        "Name": "Soiernspitze",
+        "Date": "2025-08-09",
+        "From": "Barmsee/Tennsee, Krün",
+        "To": "Mittenwald",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Seinskopf",
+            "Schöttelkarspitze",
+            "Soiernspitze"
+        ],
+        "Lakes": [
+            "Soiernsee"
+        ],
+        "Ascent (m)": 1983,
+        "Descent (m)": 1961,
+        "Max Elevation (m)": 2257,
+        "Min Elevation (m)": 860,
+        "Distance (km)": 30,
+        "Time (h)": 11,
+        "Difficulty": 3,
+        "Lat": 47.481567,
+        "Lng": 11.3571074,
+        "Fish": [
+            {
+                "Fish": 2,
+                "Lat": 47.4861153,
+                "Lng": 11.3492537,
+                "Description": "Ascent from Soiernsee to Soiernscharte – The long, loose scree slope tests endurance and balance"
+            }
+        ],
+        "Photos": [
+            "250809_01.jpg",
+            "250809_02.jpg",
+            "250809_03.jpg"
+        ]
+    },
+    {
+        "Name": "Stuiben",
+        "Date": "2025-08-03",
+        "From": "Immenstadt",
+        "To": "Immenstadt",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Steineberg",
+            "Stuiben"
+        ],
+        "Ascent (m)": 1167,
+        "Descent (m)": 1167,
+        "Max Elevation (m)": 1746,
+        "Min Elevation (m)": 731,
+        "Distance (km)": 19,
+        "Time (h)": 6,
+        "Difficulty": 1,
+        "Lat": 47.5172526,
+        "Lng": 10.1611533,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 47.5272872,
+                "Lng": 10.1919746,
+                "Description": "Ascent to Stuiben – A very long ladder must be climbed, requiring no fear of heights"
+            }
+        ]
+    },
+    {
+        "Name": "Lachenspitze",
+        "Date": "2025-07-19",
+        "From": "Hinterstein Grüner Hut, Bad Hindelang",
+        "To": "Weißenbach am Lech",
+        "Countries": [
+            "Germany",
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Kirchendachsattel",
+            "Steinkarspitze",
+            "Lachenspitze"
+        ],
+        "Lakes": [
+            "Schrecksee",
+            "Traualpsee"
+        ],
+        "Huts": [
+            "Landsberger Hütte"
+        ],
+        "Ascent (m)": 1607,
+        "Descent (m)": 1587,
+        "Max Elevation (m)": 2113,
+        "Min Elevation (m)": 860,
+        "Distance (km)": 29,
+        "Time (h)": 10,
+        "Difficulty": 3,
+        "Lat": 47.4400958,
+        "Lng": 10.5176135,
+        "Fish": [
+            {
+                "Fish": 2,
+                "Lat": 47.438073,
+                "Lng": 10.5092933,
+                "Description": "Ascent to Lachenspitze – The final rocky approach requires careful climbing"
+            }
+        ],
+        "Photos": [
+            "250719_01.jpg",
+            "250719_02.jpg",
+            "250719_03.jpg",
+            "250719_04.jpg",
+            "250719_05.jpg",
+            "250719_06.jpg",
+            "250719_07.jpg",
+            "250719_08.jpg",
+            "250719_09.jpg"
+        ]
+    },
+    {
+        "Name": "Pyramidenspitze",
+        "Date": "2025-07-12",
+        "From": "Kufstein",
+        "To": "Kufstein",
+        "Countries": [
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Pyramidenspitze"
+        ],
+        "Huts": [
+            "Vorderkaiserfeldenhütte"
+        ],
+        "Ascent (m)": 1669,
+        "Descent (m)": 1669,
+        "Max Elevation (m)": 1997,
+        "Min Elevation (m)": 480,
+        "Distance (km)": 24,
+        "Time (h)": 9,
+        "Difficulty": 2,
+        "Lat": 47.6100522,
+        "Lng": 12.276743,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 47.6083305,
+                "Lng": 12.2762886,
+                "Description": "Descent from Pyramidenspitze – Slippery gravel sections make the way down tricky"
+            }
+        ],
+        "Photos": [
+            "250712_01.jpg",
+            "250712_02.jpg",
+            "250712_03.jpg"
+        ]
+    },
+    {
+        "Name": "Entschenkopf",
+        "Date": "2025-07-05",
+        "From": "Altstädten(Allgäu)",
+        "To": "Oberstdorf",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Sonnenkopf",
+            "Heidelbeerkopf",
+            "Entschenkopf"
+        ],
+        "Lakes": [
+            "Gaisalpsee"
+        ],
+        "Ascent (m)": 1534,
+        "Descent (m)": 1474,
+        "Max Elevation (m)": 2043,
+        "Min Elevation (m)": 745,
+        "Distance (km)": 23,
+        "Time (h)": 9,
+        "Difficulty": 2,
+        "Lat": 47.4365672,
+        "Lng": 10.3313126,
+        "Fish": [
+            {
+                "Fish": 2,
+                "Lat": 47.4302328,
+                "Lng": 10.3316518,
+                "Description": "Descent from Entschenkopf – Sections with steel ropes run right next to a cliff where fatal falls have happened"
+            }
+        ],
+        "Photos": [
+            "250705_01.jpg",
+            "250705_02.jpg",
+            "250705_03.jpg",
+            "250705_04.jpg"
+        ]
+    },
+    {
+        "Name": "Hintersee",
+        "Date": "2025-06-28",
+        "From": "Bayerisch Gmain",
+        "To": "Hintermühle, Ramsau b. Berchtesgaden",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Hochschlegel",
+            "Karkopf",
+            "Törlkopf"
+        ],
+        "Lakes": [
+            "Hintersee"
+        ],
+        "Ascent (m)": 1353,
+        "Descent (m)": 1201,
+        "Max Elevation (m)": 1731,
+        "Min Elevation (m)": 538,
+        "Distance (km)": 21,
+        "Time (h)": 8,
+        "Difficulty": 1,
+        "Lat": 47.606532,
+        "Lng": 12.854718,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 47.5796796,
+                "Lng": 10.9104796,
+                "Description": "Ascent via Alpgartensteig – Steep stairs lead up exposed terrain"
+            }
+        ],
+        "Photos": [
+            "250628_01.jpg",
+            "250628_02.jpg",
+            "250628_03.jpg"
+        ]
+    },
+    {
+        "Name": "Frieder",
+        "Date": "2025-06-21",
+        "From": "Graswang Brandwiese, Garmisch-Partenkirchen",
+        "To": "Garmisch-Partenkirchen",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Friederspitz",
+            "Frieder"
+        ],
+        "Ascent (m)": 1268,
+        "Descent (m)": 1464,
+        "Max Elevation (m)": 2053,
+        "Min Elevation (m)": 701,
+        "Distance (km)": 31,
+        "Time (h)": 9,
+        "Difficulty": 1,
+        "Lat": 47.521754,
+        "Lng": 10.959572,
+        "Photos": [
+            "250621_01.jpg",
+            "250621_02.jpg",
+            "250621_03.jpg"
+        ]
+    },
+    {
+        "Name": "Große Klammspitze",
+        "Date": "2025-06-19",
+        "From": "Linderhof Forsthaus, Ettal",
+        "To": "Buching Ortsmitte, Halblech",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Große Klammspitze"
+        ],
+        "Ascent (m)": 1259,
+        "Descent (m)": 1386,
+        "Max Elevation (m)": 1924,
+        "Min Elevation (m)": 809,
+        "Distance (km)": 19,
+        "Time (h)": 7,
+        "Difficulty": 1,
+        "Lat": 47.580607,
+        "Lng": 10.909356,
+        "Fish": [
+            {
+                "Fish": 2,
+                "Lat": 47.6935827,
+                "Lng": 12.8897482,
+                "Description": "Ascent to Große Klammspitze – The path narrows to demanding ridge terrain near the top"
+            }
+        ],
+        "Photos": [
+            "250619_01.jpg",
+            "250619_02.jpg",
+            "250619_03.jpg",
+            "250619_04.jpg",
+            "250619_05.jpg"
+        ]
+    },
+    {
+        "Name": "Mühlhörndl",
+        "Date": "2025-06-09",
+        "From": "Ettenhausen",
+        "To": "Oberaudorf",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Geigelstein",
+            "Mühlhörndl"
+        ],
+        "Ascent (m)": 1405,
+        "Descent (m)": 1496,
+        "Max Elevation (m)": 1808,
+        "Min Elevation (m)": 467,
+        "Distance (km)": 28,
+        "Time (h)": 8,
+        "Difficulty": 1,
+        "Lat": 47.704769,
+        "Lng": 12.299392,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 47.7059839,
+                "Lng": 12.3171342,
+                "Description": "Geigelstein to Mühlhörndl – The little-used path is overgrown and way finding is difficult"
+            }
+        ],
+        "Photos": [
+            "250609_01.jpg",
+            "250609_02.jpg",
+            "250609_03.jpg",
+            "250609_04.jpg"
+        ]
+    },
+    {
+        "Name": "Schinder",
+        "Date": "2025-05-31",
+        "From": "Sutten Moni-Alm, Rottach-Egern",
+        "To": "Spitzingsee Kirche, Schliersee",
+        "Countries": [
+            "Germany",
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Bayer. Schinder",
+            "Österr. Schinder"
+        ],
+        "Lakes": [
+            "Spitzingsee"
+        ],
+        "Ascent (m)": 1222,
+        "Descent (m)": 1116,
+        "Max Elevation (m)": 1808,
+        "Min Elevation (m)": 878,
+        "Distance (km)": 22,
+        "Time (h)": 7,
+        "Difficulty": 2,
+        "Lat": 47.6018401,
+        "Lng": 11.8557193,
+        "Fish": [
+            {
+                "Fish": 3,
+                "Lat": 47.6034528,
+                "Lng": 11.8556628,
+                "Description": "Ascent to Schindertor – The final rock gate must be climbed using only metal steps without ropes"
+            }
+        ],
+        "Photos": [
+            "250531_01.jpg",
+            "250531_02.jpg"
+        ]
+    },
+    {
+        "Name": "Hennenkopf",
+        "Date": "2025-05-24",
+        "From": "Linderhof Schloß, Ettal",
+        "To": "Linderhof Schloß, Ettal",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Hennenkopf"
+        ],
+        "Ascent (m)": 938,
+        "Descent (m)": 938,
+        "Max Elevation (m)": 1768,
+        "Min Elevation (m)": 937,
+        "Distance (km)": 14,
+        "Time (h)": 5,
+        "Difficulty": 0,
+        "Lat": 47.586353,
+        "Lng": 10.9603872,
+        "Photos": [
+            "250524_01.jpg",
+            "250524_02.jpg",
+            "250524_03.jpg",
+            "250524_04.jpg",
+            "250524_05.jpg"
+        ]
+    },
+    {
+        "Name": "Vorderer Felderkopf",
+        "Date": "2025-05-18",
+        "From": "Griesen(Oberbay)",
+        "To": "Garmisch-Partenkirchen",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Feldernkopf",
+            "Vorderer Felderkopf",
+            "Großer Zunderkopf",
+            "Brünstelskopf"
+        ],
+        "Ascent (m)": 1253,
+        "Descent (m)": 1359,
+        "Max Elevation (m)": 1928,
+        "Min Elevation (m)": 689,
+        "Distance (km)": 25,
+        "Time (h)": 7,
+        "Difficulty": 0,
+        "Lat": 47.5302447,
+        "Lng": 11.0290384,
+        "Photos": [
+            "250518_01.jpg"
+        ]
+    },
+    {
+        "Name": "Brünnstein",
+        "Date": "2025-05-11",
+        "From": "Oberaudorf",
+        "To": "Brannenburg",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Brünnstein"
+        ],
+        "Ascent (m)": 1153,
+        "Descent (m)": 1162,
+        "Max Elevation (m)": 1619,
+        "Min Elevation (m)": 472,
+        "Distance (km)": 26,
+        "Time (h)": 7,
+        "Difficulty": 1,
+        "Lat": 47.6473417,
+        "Lng": 12.0971101,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 47.6447483,
+                "Lng": 12.0987282,
+                "Description": "Ascent to Brünnstein – Many rope-secured passages, exposed but not too severe"
+            }
+        ],
+        "Photos": [
+            "250511_01.jpg",
+            "250511_02.jpg",
+            "250511_03.jpg",
+            "250511_04.jpg"
+        ]
+    },
+    {
+        "Name": "Großer Traithen",
+        "Date": "2025-05-01",
+        "From": "Bayrischzell",
+        "To": "Oberaudorf",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Vogelsang",
+            "Kleiner Traithen",
+            "Großer Traithen",
+            "Steilnerjoch"
+        ],
+        "Ascent (m)": 1190,
+        "Descent (m)": 1512,
+        "Max Elevation (m)": 1852,
+        "Min Elevation (m)": 481,
+        "Distance (km)": 21,
+        "Time (h)": 7,
+        "Difficulty": 0,
+        "Lat": 47.6465629,
+        "Lng": 12.0376348,
+        "Photos": [
+            "250501_01.jpg",
+            "250501_02.jpg",
+            "250501_03.jpg"
+        ]
+    },
+    {
+        "Name": "Laubeneck",
+        "Date": "2025-04-27",
+        "From": "Linderhof Schloß, Ettal",
+        "To": "Unterammergau",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Laubeneck"
+        ],
+        "Ascent (m)": 852,
+        "Descent (m)": 961,
+        "Max Elevation (m)": 1758,
+        "Min Elevation (m)": 828,
+        "Distance (km)": 14,
+        "Time (h)": 5,
+        "Difficulty": 0,
+        "Lat": 47.5867474,
+        "Lng": 10.9793397,
+        "Photos": [
+            "250427_01.jpg",
+            "250427_02.jpg",
+            "250427_03.jpg"
+        ]
+    },
+    {
+        "Name": "Hirschberg",
+        "Date": "2025-04-20",
+        "From": "Wildbad Klamm, Kreuth",
+        "To": "Oberhof Naturkäserei, Kreuth",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Hirschberg",
+            "Kratzer"
+        ],
+        "Ascent (m)": 846,
+        "Descent (m)": 924,
+        "Max Elevation (m)": 1670,
+        "Min Elevation (m)": 750,
+        "Distance (km)": 19,
+        "Time (h)": 5,
+        "Difficulty": 0,
+        "Lat": 47.6607586,
+        "Lng": 11.6961064,
+        "Photos": [
+            "250420_01.jpg"
+        ]
+    },
+    {
+        "Name": "Auerkamp",
+        "Date": "2025-04-19",
+        "From": "Söllbach, Bad Wiessee",
+        "To": "Lenggries",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Ochsenkamp",
+            "Auerkamp",
+            "Spitzkamp",
+            "Seekarkreuz"
+        ],
+        "Huts": [
+            "Lenggrieser Hütte"
+        ],
+        "Ascent (m)": 1002,
+        "Descent (m)": 1076,
+        "Max Elevation (m)": 1607,
+        "Min Elevation (m)": 679,
+        "Distance (km)": 19,
+        "Time (h)": 6,
+        "Difficulty": 1,
+        "Lat": 47.6611777,
+        "Lng": 11.6598617,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 47.6653317,
+                "Lng": 11.6645396,
+                "Description": "Mountain ridge along Kampen peaks – The exposed ridge offers little margin for error"
+            }
+        ],
+        "Photos": [
+            "250419_01.jpg"
+        ]
+    },
+    {
+        "Name": "Jochberg",
+        "Date": "2025-04-12",
+        "From": "Post, Jachenau",
+        "To": "Kochel",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Hirschhörnlkopf",
+            "Jochberg"
+        ],
+        "Ascent (m)": 1149,
+        "Descent (m)": 1316,
+        "Max Elevation (m)": 1565,
+        "Min Elevation (m)": 606,
+        "Distance (km)": 16,
+        "Time (h)": 5,
+        "Difficulty": 0,
+        "Lat": 47.625939,
+        "Lng": 11.3718595,
+        "Photos": [
+            "250412_01.jpg",
+            "250412_02.jpg"
+        ]
+    },
+    {
+        "Name": "Hörnle",
+        "Date": "2025-04-05",
+        "From": "Bad Kohlgrub",
+        "To": "Oberammergau",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Vorderes Hörnle",
+            "Hinteres Hörnle",
+            "Großer Aufacker"
+        ],
+        "Ascent (m)": 1042,
+        "Descent (m)": 1025,
+        "Max Elevation (m)": 1548,
+        "Min Elevation (m)": 809,
+        "Distance (km)": 16,
+        "Time (h)": 5,
+        "Difficulty": 0,
+        "Lat": 47.638817,
+        "Lng": 11.074513,
+        "Photos": [
+            "250405_01.jpg",
+            "250405_02.jpg"
+        ]
+    },
+    {
+        "Name": "Attaviros",
+        "Date": "2025-04-03",
+        "From": "Embonas",
+        "To": "Embonas",
+        "Countries": [
+            "Greece"
+        ],
+        "Timezone": "Europe/Athens",
+        "Peaks": [
+            "Attaviros"
+        ],
+        "Ascent (m)": 780,
+        "Descent (m)": 780,
+        "Max Elevation (m)": 1208,
+        "Min Elevation (m)": 476,
+        "Distance (km)": 11,
+        "Time (h)": 4,
+        "Difficulty": 1,
+        "Lat": 36.2099714,
+        "Lng": 27.8644437,
+        "Fish": [
+            {
+                "Fish": 2,
+                "Lat": 36.2167412,
+                "Lng": 27.8572934,
+                "Description": "Ascent to Attaviros – Extremely steep rock terrain, way marked only by red dots, with fog often complicating orientation"
+            }
+        ],
+        "Photos": [
+            "250403_01.jpg",
+            "250403_02.jpg",
+            "250403_03.jpg"
+        ]
+    },
+    {
+        "Name": "Rehleitenkopf",
+        "Date": "2025-03-30",
+        "From": "Flintsbach",
+        "To": "Bayrischzell",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Rehleitenkopf"
+        ],
+        "Ascent (m)": 1196,
+        "Descent (m)": 861,
+        "Max Elevation (m)": 1338,
+        "Min Elevation (m)": 468,
+        "Distance (km)": 21,
+        "Time (h)": 5,
+        "Difficulty": 0,
+        "Lat": 47.7025664,
+        "Lng": 12.1036761,
+        "Photos": [
+            "250330_01.jpg",
+            "250330_02.jpg"
+        ]
+    },
+    {
+        "Name": "Kranzhorn",
+        "Date": "2025-03-08",
+        "From": "Brannenburg",
+        "To": "Oberaudorf",
+        "Countries": [
+            "Germany",
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Kranzhorn"
+        ],
+        "Ascent (m)": 937,
+        "Descent (m)": 928,
+        "Max Elevation (m)": 1368,
+        "Min Elevation (m)": 458,
+        "Distance (km)": 22,
+        "Time (h)": 6,
+        "Difficulty": 0,
+        "Lat": 47.700516,
+        "Lng": 12.183539,
+        "Photos": [
+            "250308_01.jpg"
+        ]
+    },
+    {
+        "Name": "Unternberg",
+        "Date": "2025-03-02",
+        "From": "Ruhpolding",
+        "To": "Seehaus, Ruhpolding",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Unternberg"
+        ],
+        "Lakes": [
+            "Förchensee"
+        ],
+        "Huts": [
+            "Unternbergalm"
+        ],
+        "Ascent (m)": 769,
+        "Descent (m)": 681,
+        "Max Elevation (m)": 1425,
+        "Min Elevation (m)": 655,
+        "Distance (km)": 13,
+        "Time (h)": 4,
+        "Difficulty": 0,
+        "Lat": 47.729314,
+        "Lng": 12.640121,
+        "Photos": [
+            "250302_01.jpg",
+            "250302_02.jpg"
+        ]
+    },
+    {
+        "Name": "Dingli Cliffs",
+        "Date": "2025-01-24",
+        "From": "Il-Mosta - Dwejra",
+        "To": "BB de Rohan",
+        "Countries": [
+            "Malta"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Hungers Hill",
+            "Migra I-Ferha",
+            "Dingli Cliffs"
+        ],
+        "Ascent (m)": 528,
+        "Descent (m)": 539,
+        "Max Elevation (m)": 249,
+        "Min Elevation (m)": 12,
+        "Distance (km)": 28,
+        "Time (h)": 7,
+        "Difficulty": 0,
+        "Lat": 35.8414223,
+        "Lng": 14.3984615,
+        "Photos": [
+            "250124_01.jpg",
+            "250124_02.jpg",
+            "250124_03.jpg",
+            "250124_04.jpg",
+            "250124_05.jpg",
+            "250124_06.jpg",
+            "250124_07.jpg"
+        ]
+    },
+    {
+        "Name": "Ettaler Manndl",
+        "Date": "2024-11-17",
+        "From": "Klostergasthof, Ettal",
+        "To": "Aufackerstraße, Oberammergau",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Ettaler Manndl"
+        ],
+        "Ascent (m)": 715,
+        "Descent (m)": 712,
+        "Max Elevation (m)": 1636,
+        "Min Elevation (m)": 870,
+        "Distance (km)": 10,
+        "Time (h)": 3,
+        "Difficulty": 2,
+        "Lat": 47.584681,
+        "Lng": 11.115676,
+        "Fish": [
+            {
+                "Fish": 3,
+                "Lat": 47.5844173,
+                "Lng": 11.1162024,
+                "Description": "Ascent to Ettaler Manndl – A very steep rocky section with many ropes to hold on to"
+            }
+        ],
+        "Photos": [
+            "241117_01.jpg",
+            "241117_02.jpg",
+            "241117_03.jpg"
+        ]
+    },
+    {
+        "Name": "Barmsee",
+        "Date": "2024-11-09",
+        "From": "Klais",
+        "To": "Garmisch-Partenkirchen",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Wank"
+        ],
+        "Lakes": [
+            "Barmsee"
+        ],
+        "Ascent (m)": 1046,
+        "Descent (m)": 1271,
+        "Max Elevation (m)": 1744,
+        "Min Elevation (m)": 705,
+        "Distance (km)": 25,
+        "Time (h)": 7,
+        "Difficulty": 1,
+        "Lat": 47.50005,
+        "Lng": 11.246987,
+        "Photos": [
+            "241109_01.jpg",
+            "241109_02.jpg",
+            "241109_03.jpg"
+        ]
+    },
+    {
+        "Name": "Daniel",
+        "Date": "2024-11-03",
+        "From": "Ehrwald-Zugspitzbahn",
+        "To": "Lermoos",
+        "Countries": [
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Grüner Ups",
+            "Upsspitze",
+            "Daniel"
+        ],
+        "Ascent (m)": 1378,
+        "Descent (m)": 1347,
+        "Max Elevation (m)": 2340,
+        "Min Elevation (m)": 962,
+        "Distance (km)": 13,
+        "Time (h)": 6,
+        "Difficulty": 1,
+        "Lat": 47.432648,
+        "Lng": 10.880232,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 47.4316837,
+                "Lng": 10.8760012,
+                "Description": "Ascent to Daniel – The final rocky approach requires careful climbing"
+            }
+        ],
+        "Photos": [
+            "241103_01.jpg",
+            "241103_02.jpg",
+            "241103_03.jpg",
+            "241103_04.jpg"
+        ]
+    },
+    {
+        "Name": "Bayernsteig",
+        "Date": "2024-11-01",
+        "From": "Hammersbacher Fußweg, Garmisch-Partenkirchen",
+        "To": "Ehrwald-Zugspitzbahn",
+        "Countries": [
+            "Germany",
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Bayernsteig"
+        ],
+        "Lakes": [
+            "Gamskarsee"
+        ],
+        "Ascent (m)": 1294,
+        "Descent (m)": 1049,
+        "Max Elevation (m)": 1990,
+        "Min Elevation (m)": 728,
+        "Distance (km)": 19,
+        "Time (h)": 7,
+        "Difficulty": 1,
+        "Lat": 47.4229228,
+        "Lng": 10.9631454,
+        "Fish": [
+            {
+                "Fish": 3,
+                "Lat": 47.4247847,
+                "Lng": 10.963616,
+                "Description": "Bayernsteig – Officially closed since Nov 2024 due to lack of maintenance and unsafe conditions"
+            },
+            {
+                "Fish": 2,
+                "Lat": 47.4219091,
+                "Lng": 10.9642244,
+                "Description": "Descent to Ehrwald – Extremely steep with unstable loose gravel, making footing treacherous"
+            }
+        ],
+        "Photos": [
+            "241101_01.jpg",
+            "241101_02.jpg",
+            "241101_03.jpg",
+            "241101_04.jpg",
+            "241101_05.jpg",
+            "241101_06.jpg"
+        ]
+    },
+    {
+        "Name": "Blankenstein",
+        "Date": "2024-10-26",
+        "From": "Sutten Kistenwinterstube, Rottach-Egern",
+        "To": "Post, Rottach-Egern",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Blankenstein",
+            "Risserkogel",
+            "Setzberg"
+        ],
+        "Ascent (m)": 1013,
+        "Descent (m)": 1231,
+        "Max Elevation (m)": 1826,
+        "Min Elevation (m)": 734,
+        "Distance (km)": 16,
+        "Time (h)": 6,
+        "Difficulty": 0,
+        "Lat": 47.6401856,
+        "Lng": 11.8027806,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 47.4247728,
+                "Lng": 10.9636512,
+                "Description": "Ascent towards Blankenstein – The final approach is steep and covered with loose stones"
+            }
+        ],
+        "Photos": [
+            "241026_01.jpg",
+            "241026_02.jpg",
+            "241026_03.jpg"
+        ]
+    },
+    {
+        "Name": "Hochstaufen",
+        "Date": "2024-10-20",
+        "From": "Busbahnhof, Inzell",
+        "To": "Bad Reichenhall",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Hochstaufen"
+        ],
+        "Lakes": [
+            "Frillensee"
+        ],
+        "Huts": [
+            "Reichenhaller Haus"
+        ],
+        "Ascent (m)": 1083,
+        "Descent (m)": 1306,
+        "Max Elevation (m)": 1771,
+        "Min Elevation (m)": 462,
+        "Distance (km)": 21,
+        "Time (h)": 7,
+        "Difficulty": 1,
+        "Lat": 47.7549629,
+        "Lng": 12.8487589,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 47.6403165,
+                "Lng": 11.8068575,
+                "Description": "Ascent to Hochstaufen – Involves a bit of climbing and ropes"
+            }
+        ],
+        "Photos": [
+            "241020_01.jpg",
+            "241020_02.jpg",
+            "241020_03.jpg"
+        ]
+    },
+    {
+        "Name": "Hochfelln",
+        "Date": "2024-10-12",
+        "From": "Hochfellnbahn, Bergen (Chiemgau)",
+        "To": "Staudach-Egerndach Zunfthof, Grassau (Chiemgau)",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Hochfelln"
+        ],
+        "Huts": [
+            "Hochfellnhaus"
+        ],
+        "Ascent (m)": 1217,
+        "Descent (m)": 1261,
+        "Max Elevation (m)": 1674,
+        "Min Elevation (m)": 537,
+        "Distance (km)": 20,
+        "Time (h)": 6,
+        "Difficulty": 1,
+        "Lat": 47.7623485,
+        "Lng": 12.5592198,
+        "Photos": [
+            "241012_01.jpg",
+            "241012_02.jpg"
+        ]
+    },
+    {
+        "Name": "Hörndl",
+        "Date": "2024-10-06",
+        "From": "Seehaus, Ruhpolding",
+        "To": "Oberwössen Kirche/Alte Schule, Unterwössen",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Hörndl",
+            "Gurnwandkopf"
+        ],
+        "Huts": [
+            "Langerbauer Alm"
+        ],
+        "Ascent (m)": 1185,
+        "Descent (m)": 1279,
+        "Max Elevation (m)": 1680,
+        "Min Elevation (m)": 649,
+        "Distance (km)": 16,
+        "Time (h)": 6,
+        "Difficulty": 1,
+        "Lat": 47.7062161,
+        "Lng": 12.5840249,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 47.7094452,
+                "Lng": 12.5857156,
+                "Description": "Ascent Hörndl via Jägersteig – Steep and with ropes"
+            }
+        ],
+        "Photos": [
+            "241006_01.jpg",
+            "241006_02.jpg",
+            "241006_03.jpg"
+        ]
+    },
+    {
+        "Name": "Trainsjoch",
+        "Date": "2024-09-29",
+        "From": "Grenzgasthof Bäckeralm, Bayrischzell",
+        "To": "Kufstein",
+        "Countries": [
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Trainsjoch"
+        ],
+        "Lakes": [
+            "Thiersee"
+        ],
+        "Ascent (m)": 1083,
+        "Descent (m)": 1447,
+        "Max Elevation (m)": 1707,
+        "Min Elevation (m)": 483,
+        "Distance (km)": 21,
+        "Time (h)": 7,
+        "Difficulty": 1,
+        "Lat": 47.615269,
+        "Lng": 12.054348,
+        "Photos": [
+            "240929_01.jpg",
+            "240929_02.jpg",
+            "240929_03.jpg",
+            "240929_04.jpg"
+        ]
+    },
+    {
+        "Name": "Wirtshöhe",
+        "Date": "2024-09-22",
+        "From": "Kiefersfelden",
+        "To": "Bayrischzell",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Gießenbachklamm",
+            "Wirtshöhe"
+        ],
+        "Lakes": [
+            "Hechtsee"
+        ],
+        "Ascent (m)": 999,
+        "Descent (m)": 680,
+        "Max Elevation (m)": 1387,
+        "Min Elevation (m)": 482,
+        "Distance (km)": 25,
+        "Time (h)": 7,
+        "Difficulty": 1,
+        "Lat": 47.6245597,
+        "Lng": 12.0619705,
+        "Photos": [
+            "240922_01.jpg",
+            "240922_02.jpg",
+            "240922_03.jpg",
+            "240922_04.jpg",
+            "240922_05.jpg",
+            "240922_06.jpg",
+            "240922_07.jpg",
+            "240922_08.jpg",
+            "240922_09.jpg"
+        ]
+    },
+    {
+        "Name": "Hochries",
+        "Date": "2024-09-21",
+        "From": "Aschau (Chiemgau)",
+        "To": "Grainbach, Samerberg",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Laubenstein",
+            "Hochries"
+        ],
+        "Ascent (m)": 1078,
+        "Descent (m)": 1009,
+        "Max Elevation (m)": 1569,
+        "Min Elevation (m)": 604,
+        "Distance (km)": 16,
+        "Time (h)": 5,
+        "Difficulty": 0,
+        "Lat": 47.7471506,
+        "Lng": 12.2487354,
+        "Photos": [
+            "240921_01.jpg"
+        ]
+    },
+    {
+        "Name": "Guffertspitze",
+        "Date": "2024-09-07",
+        "From": "Wildbad, Kreuth",
+        "To": "Abzw. Steinberg a. R., Achenkirch (A)",
+        "Countries": [
+            "Germany",
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Schneidsattel",
+            "Guffertspitze"
+        ],
+        "Ascent (m)": 1715,
+        "Descent (m)": 1611,
+        "Max Elevation (m)": 2063,
+        "Min Elevation (m)": 791,
+        "Distance (km)": 28,
+        "Time (h)": 9,
+        "Difficulty": 3,
+        "Lat": 47.5463423,
+        "Lng": 11.7929476,
+        "Fish": [
+            {
+                "Fish": 2,
+                "Lat": 47.5502291,
+                "Lng": 11.7952222,
+                "Description": "Acent to Guffert – The northern ascent is partly equipped with wire ropes and includes some exposed sections"
+            }
+        ],
+        "Photos": [
+            "240907_01.jpg",
+            "240907_02.jpg",
+            "240907_03.jpg",
+            "240907_04.jpg",
+            "240907_05.jpg",
+            "240907_06.jpg"
+        ]
+    },
+    {
+        "Name": "Brecherspitz",
+        "Date": "2024-08-31",
+        "From": "Sutten Moni-Alm, Rottach-Egern",
+        "To": "Bahnhof, Schliersee",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Suttenstein",
+            "Brecherspitz"
+        ],
+        "Lakes": [
+            "Schliersee"
+        ],
+        "Ascent (m)": 806,
+        "Descent (m)": 1008,
+        "Max Elevation (m)": 1685,
+        "Min Elevation (m)": 777,
+        "Distance (km)": 16,
+        "Time (h)": 5,
+        "Difficulty": 0,
+        "Lat": 47.6764387,
+        "Lng": 11.8710535,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 47.6750878,
+                "Lng": 11.8647174,
+                "Description": "Ascent to Brecherspitz – The final ridge is narrow, exposed, and can be slippery, requiring surefootedness despite the otherwise moderate trail"
+            }
+        ],
+        "Photos": [
+            "240831_01.jpg"
+        ]
+    },
+    {
+        "Name": "Schrecksee",
+        "Date": "2024-08-24",
+        "From": "Hinterstein Grüner Hut, Bad Hindelang",
+        "To": "Hinterstein Grüner Hut, Bad Hindelang",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Vordere Schäfwanne",
+            "Hintere Schäfwanne"
+        ],
+        "Lakes": [
+            "Schrecksee"
+        ],
+        "Ascent (m)": 1380,
+        "Descent (m)": 1380,
+        "Max Elevation (m)": 2059,
+        "Min Elevation (m)": 860,
+        "Distance (km)": 19,
+        "Time (h)": 6,
+        "Difficulty": 1,
+        "Lat": 47.4372756,
+        "Lng": 10.466331,
+        "Photos": [
+            "240824_01.jpg",
+            "240824_02.jpg",
+            "240824_03.jpg",
+            "240824_04.jpg",
+            "240824_05.jpg",
+            "240824_06.jpg",
+            "240824_07.jpg"
+        ]
+    },
+    {
+        "Name": "Seebensee",
+        "Date": "2024-08-20",
+        "From": "Ehrwald-Zugspitzbahn",
+        "To": "Ehrwald-Zugspitzbahn",
+        "Countries": [
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Coburger Bank"
+        ],
+        "Lakes": [
+            "Seebensee",
+            "Drachensee"
+        ],
+        "Huts": [
+            "Coburger Hütte"
+        ],
+        "Ascent (m)": 1025,
+        "Descent (m)": 1025,
+        "Max Elevation (m)": 1915,
+        "Min Elevation (m)": 973,
+        "Distance (km)": 20,
+        "Time (h)": 7,
+        "Difficulty": 1,
+        "Lat": 47.3685165,
+        "Lng": 10.9350457,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 47.3790687,
+                "Lng": 10.9352116,
+                "Description": "Coburger Bank – Short but steep path over rocky, exposed terrain that requires a bit of scrambling"
+            }
+        ],
+        "Photos": [
+            "240820_01.jpg",
+            "240820_02.jpg",
+            "240820_03.jpg",
+            "240820_04.jpg",
+            "240820_05.jpg"
+        ]
+    },
+    {
+        "Name": "Meilerhütte",
+        "Date": "2024-08-15",
+        "From": "Schloß Elmau, Krün",
+        "To": "Mittenwald",
+        "Countries": [
+            "Germany",
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Schachen"
+        ],
+        "Lakes": [
+            "Leutaschklamm"
+        ],
+        "Huts": [
+            "Schachenhaus",
+            "Meilerhütte"
+        ],
+        "Ascent (m)": 1452,
+        "Descent (m)": 1532,
+        "Max Elevation (m)": 2370,
+        "Min Elevation (m)": 914,
+        "Distance (km)": 30,
+        "Time (h)": 8,
+        "Difficulty": 2,
+        "Lat": 47.4124074,
+        "Lng": 11.1288769,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 47.4109465,
+                "Lng": 11.1288379,
+                "Description": "Descent from Meilerhütte – Over long, loose scree fields, demanding careful footing and strong knees"
+            }
+        ],
+        "Photos": [
+            "240815_01.jpg",
+            "240815_02.jpg",
+            "240815_03.jpg",
+            "240815_04.jpg",
+            "240815_05.jpg",
+            "240815_06.jpg",
+            "240815_07.jpg",
+            "240815_08.jpg",
+            "240815_09.jpg",
+            "240815_10.jpg",
+            "240815_11.jpg"
+        ]
+    },
+    {
+        "Name": "Schützensteig",
+        "Date": "2024-08-10",
+        "From": "Mittenwald",
+        "To": "Skistadion, Garmisch-Partenkirchen",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Schützensteig"
+        ],
+        "Lakes": [
+            "Lautersee",
+            "Ferchensee"
+        ],
+        "Ascent (m)": 831,
+        "Descent (m)": 1016,
+        "Max Elevation (m)": 1514,
+        "Min Elevation (m)": 729,
+        "Distance (km)": 21,
+        "Time (h)": 7,
+        "Difficulty": 0,
+        "Lat": 47.438243,
+        "Lng": 11.213777,
+        "Photos": [
+            "240810_01.jpg",
+            "240810_02.jpg",
+            "240810_03.jpg",
+            "240810_04.jpg"
+        ]
+    },
+    {
+        "Name": "Herzogstand",
+        "Date": "2024-08-04",
+        "From": "Ohlstadt",
+        "To": "Walchensee Herzogstandbahn, Kochel a. See",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Heimgarten",
+            "Herzogstand"
+        ],
+        "Lakes": [
+            "Walchensee"
+        ],
+        "Ascent (m)": 1281,
+        "Descent (m)": 1115,
+        "Max Elevation (m)": 1783,
+        "Min Elevation (m)": 636,
+        "Distance (km)": 16,
+        "Time (h)": 6,
+        "Difficulty": 1,
+        "Lat": 47.613457,
+        "Lng": 11.308492,
+        "Photos": [
+            "240804_01.jpg",
+            "240804_02.jpg",
+            "240804_03.jpg",
+            "240804_04.jpg"
+        ]
+    },
+    {
+        "Name": "Benediktenwand",
+        "Date": "2024-07-27",
+        "From": "Laich, Jachenau",
+        "To": "Obergries",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Benediktenwand"
+        ],
+        "Lakes": [
+            "Glasbachwasserfall",
+            "Isar"
+        ],
+        "Ascent (m)": 1058,
+        "Descent (m)": 1158,
+        "Max Elevation (m)": 1800,
+        "Min Elevation (m)": 663,
+        "Distance (km)": 22,
+        "Time (h)": 7,
+        "Difficulty": 1,
+        "Lat": 47.6531725,
+        "Lng": 11.4655437,
+        "Photos": [
+            "240727_01.jpg",
+            "240727_02.jpg",
+            "240727_03.jpg",
+            "240727_04.jpg"
+        ]
+    },
+    {
+        "Name": "Krottenkopf",
+        "Date": "2024-07-20",
+        "From": "Bichl, Wallgau",
+        "To": "Farchant",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Hohe Kisten",
+            "Krottenkopf"
+        ],
+        "Lakes": [
+            "Wildsee"
+        ],
+        "Huts": [
+            "Weilheimer Hütte"
+        ],
+        "Ascent (m)": 1293,
+        "Descent (m)": 1520,
+        "Max Elevation (m)": 2068,
+        "Min Elevation (m)": 669,
+        "Distance (km)": 23,
+        "Time (h)": 7,
+        "Difficulty": 1,
+        "Lat": 47.5443761,
+        "Lng": 11.1914273,
+        "Photos": [
+            "240720_01.jpg",
+            "240720_02.jpg",
+            "240720_03.jpg",
+            "240720_04.jpg",
+            "240720_05.jpg",
+            "240720_06.jpg",
+            "240720_07.jpg",
+            "240720_08.jpg",
+            "240720_09.jpg"
+        ]
+    },
+    {
+        "Name": "Kramerspitz",
+        "Date": "2024-06-29",
+        "From": "Garmisch-Partenkirchen",
+        "To": "Garmisch-Partenkirchen",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Kramerspitz",
+            "Prediktstuhl"
+        ],
+        "Ascent (m)": 1329,
+        "Descent (m)": 1329,
+        "Max Elevation (m)": 1985,
+        "Min Elevation (m)": 694,
+        "Distance (km)": 19,
+        "Time (h)": 7,
+        "Difficulty": 1,
+        "Lat": 47.5068827,
+        "Lng": 11.047264,
+        "Photos": [
+            "240629_01.jpg",
+            "240629_02.jpg"
+        ]
+    },
+    {
+        "Name": "Fockenstein",
+        "Date": "2024-06-08",
+        "From": "Lenggries",
+        "To": "Lindenplatz, Bad Wiessee",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Fockenstein"
+        ],
+        "Lakes": [
+            "Tegernsee"
+        ],
+        "Ascent (m)": 968,
+        "Descent (m)": 916,
+        "Max Elevation (m)": 1564,
+        "Min Elevation (m)": 679,
+        "Distance (km)": 17,
+        "Time (h)": 6,
+        "Difficulty": 0,
+        "Lat": 47.6843898,
+        "Lng": 11.6522121,
+        "Photos": [
+            "240608_01.jpg"
+        ]
+    },
+    {
+        "Name": "Köppelsteig",
+        "Date": "2024-05-11",
+        "From": "Oberau",
+        "To": "Eschenlohe",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Köppelsteig",
+            "Zundereck"
+        ],
+        "Huts": [
+            "Weilheimer Hütte"
+        ],
+        "Ascent (m)": 1388,
+        "Descent (m)": 1405,
+        "Max Elevation (m)": 1955,
+        "Min Elevation (m)": 636,
+        "Distance (km)": 17,
+        "Time (h)": 8,
+        "Difficulty": 2,
+        "Lat": 47.5692018,
+        "Lng": 11.1936187,
+        "Fish": [
+            {
+                "Fish": 3,
+                "Lat": 47.558223,
+                "Lng": 11.1956109,
+                "Description": "Descent via Köppelsteig – Difficult, solitary trail requiring absolute surefootedness and a good head for heights"
+            }
+        ],
+        "Photos": [
+            "240511_01.jpg",
+            "240511_02.jpg",
+            "240511_03.jpg",
+            "240511_04.jpg",
+            "240511_05.jpg",
+            "240511_06.jpg",
+            "240511_07.jpg",
+            "240511_08.jpg",
+            "240511_09.jpg",
+            "240511_10.jpg",
+            "240511_11.jpg",
+            "240511_12.jpg"
+        ]
+    },
+    {
+        "Name": "Hochsalwand",
+        "Date": "2024-04-14",
+        "From": "Rathausplatz, Bad Feilnbach",
+        "To": "Brannenburg",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Rampoldplatte",
+            "Hochsalwand"
+        ],
+        "Ascent (m)": 1118,
+        "Descent (m)": 1160,
+        "Max Elevation (m)": 1625,
+        "Min Elevation (m)": 472,
+        "Distance (km)": 18,
+        "Time (h)": 6,
+        "Difficulty": 0,
+        "Lat": 47.716801,
+        "Lng": 12.0357626,
+        "Photos": [
+            "240414_01.jpg",
+            "240414_02.jpg",
+            "240414_03.jpg",
+            "240414_04.jpg",
+            "240414_05.jpg"
+        ]
+    },
+    {
+        "Name": "Cachoeira da Fumaça",
+        "Date": "2024-03-14",
+        "From": "Lençóis",
+        "To": "Caeté-Açu",
+        "Countries": [
+            "Brazil"
+        ],
+        "Timezone": "America/Sao_Paulo",
+        "Peaks": [
+            "Chapada Diamantina"
+        ],
+        "Lakes": [
+            "Cachoeira da Fumaça",
+            "Cachoeira da Capivara",
+            "Ribeirão do Meio"
+        ],
+        "Ascent (m)": 859,
+        "Descent (m)": 369,
+        "Max Elevation (m)": 1335,
+        "Min Elevation (m)": 378,
+        "Distance (km)": 29,
+        "Time (h)": 14,
+        "Difficulty": 3,
+        "Lat": -12.6006861,
+        "Lng": -41.4550869,
+        "Fish": [
+            {
+                "Fish": 3,
+                "Lat": -12.6108657,
+                "Lng": -41.4532282,
+                "Description": "Cachoeira Fumaça to Lençóis – Extremely long, poorly marked trail with river crossings and rugged terrain, demanding navigation skills and lots of endurance"
+            }
+        ],
+        "Photos": [
+            "240314_01.jpg",
+            "240314_02.jpg",
+            "240314_03.jpg",
+            "240314_04.jpg",
+            "240314_05.jpg",
+            "240314_06.jpg",
+            "240314_07.jpg",
+            "240314_08.jpg",
+            "240314_09.jpg",
+            "240314_10.jpg",
+            "240314_11.jpg"
+        ]
+    },
+    {
+        "Name": "Valle de Capão",
+        "Date": "2024-03-10",
+        "From": "Caeté-Açu",
+        "To": "Lençóis",
+        "Countries": [
+            "Brazil"
+        ],
+        "Timezone": "America/Sao_Paulo",
+        "Peaks": [
+            "Chapada Diamantina"
+        ],
+        "Lakes": [
+            "Ribeirão"
+        ],
+        "Ascent (m)": 1016,
+        "Descent (m)": 553,
+        "Max Elevation (m)": 1052,
+        "Min Elevation (m)": 442,
+        "Distance (km)": 21,
+        "Time (h)": 6,
+        "Difficulty": 2,
+        "Lat": -12.5576778,
+        "Lng": -41.4520533,
+        "Fish": [
+            {
+                "Fish": 2,
+                "Lat": -12.5693024,
+                "Lng": -41.4168015,
+                "Description": "Lençóis to Caeté-Açu – Long, rugged trail with overgrown and exposed sections, river crossings, poor signage, no cell coverage, and a hot, shade-free finish"
+            }
+        ],
+        "Photos": [
+            "240310_01.jpg",
+            "240310_02.jpg",
+            "240310_03.jpg",
+            "240310_04.jpg",
+            "240310_05.jpg",
+            "240310_06.jpg",
+            "240310_07.jpg"
+        ]
+    },
+    {
+        "Name": "Jonkershoek",
+        "Date": "2023-12-11",
+        "From": "Jonkershoek Ring Road",
+        "To": "Jonkershoek Ring Road",
+        "Countries": [
+            "South Africa"
+        ],
+        "Timezone": "Africa/Johannesburg",
+        "Peaks": [
+            "Bergriviernek",
+            "Kurktrekkersnek"
+        ],
+        "Lakes": [
+            "2nd Waterfall",
+            "1st Waterfall"
+        ],
+        "Ascent (m)": 973,
+        "Descent (m)": 973,
+        "Max Elevation (m)": 1277,
+        "Min Elevation (m)": 375,
+        "Distance (km)": 13,
+        "Time (h)": 4,
+        "Difficulty": 1,
+        "Lat": -33.9969857,
+        "Lng": 19.0122715,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": -34.0104108,
+                "Lng": 18.9995803,
+                "Description": "Descent from Kurktrekkersnek – Very steep and partly overgrown"
+            }
+        ],
+        "Photos": [
+            "231211_01.jpg",
+            "231211_02.jpg",
+            "231211_03.jpg",
+            "231211_04.jpg",
+            "231211_05.jpg"
+        ]
+    },
+    {
+        "Name": "Perdekop",
+        "Date": "2023-12-10",
+        "From": "Franschhoek Pass Parking",
+        "To": "Franschhoek Pass Parking",
+        "Countries": [
+            "South Africa"
+        ],
+        "Timezone": "Africa/Johannesburg",
+        "Peaks": [
+            "Uitkyk",
+            "Perdekop"
+        ],
+        "Ascent (m)": 923,
+        "Descent (m)": 923,
+        "Max Elevation (m)": 1575,
+        "Min Elevation (m)": 687,
+        "Distance (km)": 13,
+        "Time (h)": 4,
+        "Difficulty": 1,
+        "Lat": -33.8727753,
+        "Lng": 19.1987225,
+        "Photos": [
+            "231210_01.jpg",
+            "231210_02.jpg",
+            "231210_03.jpg",
+            "231210_04.jpg",
+            "231210_05.jpg"
+        ]
+    },
+    {
+        "Name": "Robberg",
+        "Date": "2023-12-05",
+        "From": "Robberg Visitor Center",
+        "To": "Robberg Visitor Center",
+        "Countries": [
+            "South Africa"
+        ],
+        "Timezone": "Africa/Johannesburg",
+        "Peaks": [
+            "Robberg"
+        ],
+        "Lakes": [
+            "Nelson's Bay"
+        ],
+        "Ascent (m)": 209,
+        "Descent (m)": 211,
+        "Max Elevation (m)": 121,
+        "Min Elevation (m)": 0,
+        "Distance (km)": 9,
+        "Time (h)": 3,
+        "Difficulty": 0,
+        "Lat": -34.104264,
+        "Lng": 23.3994669,
+        "Photos": [
+            "231205_01.jpg",
+            "231205_02.jpg",
+            "231205_03.jpg",
+            "231205_04.jpg",
+            "231205_05.jpg",
+            "231205_06.jpg"
+        ]
+    },
+    {
+        "Name": "Table Mountain",
+        "Date": "2023-12-02",
+        "From": "Tafelberg Road Parking",
+        "To": "Tafelberg Road Parking",
+        "Countries": [
+            "South Africa"
+        ],
+        "Timezone": "Africa/Johannesburg",
+        "Peaks": [
+            "Table Mountain"
+        ],
+        "Ascent (m)": 694,
+        "Descent (m)": 694,
+        "Max Elevation (m)": 1072,
+        "Min Elevation (m)": 379,
+        "Distance (km)": 6,
+        "Time (h)": 4,
+        "Difficulty": 1,
+        "Lat": -33.9589975,
+        "Lng": 18.4037909,
+        "Photos": [
+            "231202_01.jpg",
+            "231202_02.jpg",
+            "231202_03.jpg",
+            "231202_04.jpg"
+        ]
+    },
+    {
+        "Name": "Lion's Head",
+        "Date": "2023-11-29",
+        "From": "Lion's Head Parking",
+        "To": "Lion's Head Parking",
+        "Countries": [
+            "South Africa"
+        ],
+        "Timezone": "Africa/Johannesburg",
+        "Peaks": [
+            "Lion's Head"
+        ],
+        "Ascent (m)": 274,
+        "Descent (m)": 274,
+        "Max Elevation (m)": 669,
+        "Min Elevation (m)": 295,
+        "Distance (km)": 5,
+        "Time (h)": 2,
+        "Difficulty": 0,
+        "Lat": -33.9350389,
+        "Lng": 18.3891433,
+        "Photos": [
+            "231129_01.jpg",
+            "231129_02.jpg"
+        ]
+    },
+    {
+        "Name": "Breitenstein",
+        "Date": "2023-10-28",
+        "From": "Jenbachtal-Wanderparkplatz, Bad Feilnbach",
+        "To": "Fischbachau Ort (Parkplatz)",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Breitenstein"
+        ],
+        "Lakes": [
+            "Jenbachfall"
+        ],
+        "Ascent (m)": 1041,
+        "Descent (m)": 832,
+        "Max Elevation (m)": 1622,
+        "Min Elevation (m)": 559,
+        "Distance (km)": 15,
+        "Time (h)": 5,
+        "Difficulty": 0,
+        "Lat": 47.721094,
+        "Lng": 11.9877725,
+        "Photos": [
+            "231028_01.jpg",
+            "231028_02.jpg",
+            "231028_03.jpg"
+        ]
+    },
+    {
+        "Name": "Kampenwand",
+        "Date": "2023-09-30",
+        "From": "Aschau (Chiemgau)",
+        "To": "Kucheln, Grassau (Chiemgau)",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Kampenwand-Ostgipfel"
+        ],
+        "Ascent (m)": 1184,
+        "Descent (m)": 1117,
+        "Max Elevation (m)": 1664,
+        "Min Elevation (m)": 538,
+        "Distance (km)": 18,
+        "Time (h)": 6,
+        "Difficulty": 1,
+        "Lat": 47.7559872,
+        "Lng": 12.3682519,
+        "Photos": [
+            "230930_01.jpg",
+            "230930_02.jpg",
+            "230930_03.jpg",
+            "230930_04.jpg",
+            "230930_05.jpg"
+        ]
+    },
+    {
+        "Name": "Teth Valbonë",
+        "Date": "2023-09-19",
+        "From": "Teth",
+        "To": "Valbonë",
+        "Countries": [
+            "Albania"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Valbona Pass"
+        ],
+        "Ascent (m)": 1156,
+        "Descent (m)": 933,
+        "Max Elevation (m)": 1818,
+        "Min Elevation (m)": 812,
+        "Distance (km)": 19,
+        "Time (h)": 7,
+        "Difficulty": 1,
+        "Lat": 42.4057466,
+        "Lng": 19.816269,
+        "Photos": [
+            "230919_01.jpg",
+            "230919_02.jpg",
+            "230919_03.jpg",
+            "230919_04.jpg",
+            "230919_05.jpg",
+            "230919_06.jpg",
+            "230919_07.jpg",
+            "230919_08.jpg",
+            "230919_09.jpg"
+        ]
+    },
+    {
+        "Name": "Blue Eye",
+        "Date": "2023-09-18",
+        "From": "Teth",
+        "To": "Teth",
+        "Countries": [
+            "Albania"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Lakes": [
+            "Canyon of Grunas",
+            "Blue Eye",
+            "Grunas Waterfall"
+        ],
+        "Ascent (m)": 794,
+        "Descent (m)": 632,
+        "Max Elevation (m)": 868,
+        "Min Elevation (m)": 485,
+        "Distance (km)": 22,
+        "Time (h)": 7,
+        "Difficulty": 1,
+        "Lat": 42.3642868,
+        "Lng": 19.746199,
+        "Photos": [
+            "230918_01.jpg",
+            "230918_02.jpg",
+            "230918_03.jpg",
+            "230918_04.jpg"
+        ]
+    },
+    {
+        "Name": "Tegernseer Hütte",
+        "Date": "2023-09-09",
+        "From": "Tegernseer Hütte Bushst., Kreuth",
+        "To": "Lenggries",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Roßstein"
+        ],
+        "Huts": [
+            "Tegernseer Hütte"
+        ],
+        "Ascent (m)": 896,
+        "Descent (m)": 1079,
+        "Max Elevation (m)": 1698,
+        "Min Elevation (m)": 679,
+        "Distance (km)": 16,
+        "Time (h)": 6,
+        "Difficulty": 1,
+        "Lat": 47.6327284,
+        "Lng": 11.6783448,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 47.630939,
+                "Lng": 11.6757573,
+                "Description": "Ascent to Roßstein – Path partially secured with wire ropes"
+            }
+        ],
+        "Photos": [
+            "230909_01.jpg",
+            "230909_02.jpg"
+        ]
+    },
+    {
+        "Name": "Hochgern",
+        "Date": "2023-09-02",
+        "From": "Aschau (Chiemgau)",
+        "To": "Übersee",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Hochgern"
+        ],
+        "Ascent (m)": 1193,
+        "Descent (m)": 1211,
+        "Max Elevation (m)": 1748,
+        "Min Elevation (m)": 526,
+        "Distance (km)": 20,
+        "Time (h)": 7,
+        "Difficulty": 1,
+        "Lat": 47.7505754,
+        "Lng": 12.5157841,
+        "Photos": [
+            "230902_01.jpg",
+            "230902_02.jpg",
+            "230902_03.jpg"
+        ]
+    },
+    {
+        "Name": "Hohe Asten",
+        "Date": "2023-08-26",
+        "From": "Flintsbach",
+        "To": "Oberaudorf",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Hohe Asten"
+        ],
+        "Lakes": [
+            "Bichlersee"
+        ],
+        "Ascent (m)": 814,
+        "Descent (m)": 801,
+        "Max Elevation (m)": 1163,
+        "Min Elevation (m)": 468,
+        "Distance (km)": 17,
+        "Time (h)": 6,
+        "Difficulty": 0,
+        "Lat": 47.700322,
+        "Lng": 12.116523,
+        "Photos": [
+            "230826_01.jpg",
+            "230826_02.jpg"
+        ]
+    },
+    {
+        "Name": "Halserspitz",
+        "Date": "2023-08-12",
+        "From": "Wildbad, Kreuth",
+        "To": "Siebenhütten, Kreuth",
+        "Countries": [
+            "Germany",
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Wolfsschlucht",
+            "Blaubergkopf",
+            "Halserspitz"
+        ],
+        "Ascent (m)": 1243,
+        "Descent (m)": 1231,
+        "Max Elevation (m)": 1862,
+        "Min Elevation (m)": 792,
+        "Distance (km)": 19,
+        "Time (h)": 7,
+        "Difficulty": 2,
+        "Lat": 47.5911668,
+        "Lng": 11.7810788,
+        "Fish": [
+            {
+                "Fish": 2,
+                "Lat": 47.595322,
+                "Lng": 11.7376835,
+                "Description": "Wolfsschlucht – Several steep sections and steel cable passages"
+            },
+            {
+                "Fish": 3,
+                "Lat": 47.5908791,
+                "Lng": 11.7784808,
+                "Description": "Descent from Halserspitz – Very steep, demanding balance and no fear of heights"
+            }
+        ],
+        "Photos": [
+            "230812_01.jpg",
+            "230812_02.jpg",
+            "230812_03.jpg"
+        ]
+    },
+    {
+        "Name": "Drachensee",
+        "Date": "2023-07-23",
+        "From": "Ehrwald-Zugspitzbahn",
+        "To": "Ehrwald-Zugspitzbahn",
+        "Countries": [
+            "Germany",
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Coburger Bank",
+            "Biberwierer Scharte"
+        ],
+        "Lakes": [
+            "Seebensee",
+            "Drachensee"
+        ],
+        "Huts": [
+            "Coburger Hütte"
+        ],
+        "Ascent (m)": 1086,
+        "Descent (m)": 1085,
+        "Max Elevation (m)": 2000,
+        "Min Elevation (m)": 961,
+        "Distance (km)": 17,
+        "Time (h)": 7,
+        "Difficulty": 2,
+        "Lat": 47.358335,
+        "Lng": 10.934634,
+        "Fish": [
+            {
+                "Fish": 2,
+                "Lat": 47.3790687,
+                "Lng": 10.9352116,
+                "Description": "Coburger Bank – Short but steep path over rocky, exposed terrain that requires a bit of scrambling"
+            },
+            {
+                "Fish": 2,
+                "Lat": 47.3625684,
+                "Lng": 10.9195397,
+                "Description": "Descent to Ehrwald via Knappensteig – Over long, loose scree fields, demanding careful footing and strong knees"
+            }
+        ],
+        "Photos": [
+            "230723_01.jpg",
+            "230723_02.jpg",
+            "230723_03.jpg",
+            "230723_04.jpg",
+            "230723_05.jpg",
+            "230723_06.jpg"
+        ]
+    },
+    {
+        "Name": "Wendelstein",
+        "Date": "2023-06-25",
+        "From": "Brannenburg",
+        "To": "Bayrischzell",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Wendelstein"
+        ],
+        "Huts": [
+            "Wendelsteinhaus"
+        ],
+        "Ascent (m)": 1361,
+        "Descent (m)": 1030,
+        "Max Elevation (m)": 1838,
+        "Min Elevation (m)": 472,
+        "Distance (km)": 18,
+        "Time (h)": 6,
+        "Difficulty": 1,
+        "Lat": 47.7034761,
+        "Lng": 12.0120519,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 47.7074955,
+                "Lng": 12.0164146,
+                "Description": "Brannenburger Steig – A few steeper sections when ascending Wendelstein"
+            }
+        ],
+        "Photos": [
+            "230625_01.jpg",
+            "230625_02.jpg",
+            "230625_03.jpg",
+            "230625_04.jpg"
+        ]
+    },
+    {
+        "Name": "Arbersee",
+        "Date": "2023-05-01",
+        "From": "Bayrisch-Eisenstein",
+        "To": "Ludwigsthal",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Lakes": [
+            "Großer Arbersee"
+        ],
+        "Ascent (m)": 324,
+        "Descent (m)": 418,
+        "Max Elevation (m)": 951,
+        "Min Elevation (m)": 601,
+        "Distance (km)": 16,
+        "Time (h)": 5,
+        "Difficulty": 0,
+        "Lat": 49.0984671,
+        "Lng": 13.1547588,
+        "Photos": [
+            "230501_01.jpg"
+        ]
+    },
+    {
+        "Name": "Soinsee",
+        "Date": "2023-04-22",
+        "From": "Bayrischzell",
+        "To": "Osterhofen(Oberbay)",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Lakes": [
+            "Soinsee"
+        ],
+        "Ascent (m)": 877,
+        "Descent (m)": 875,
+        "Max Elevation (m)": 1463,
+        "Min Elevation (m)": 779,
+        "Distance (km)": 17,
+        "Time (h)": 5,
+        "Difficulty": 0,
+        "Lat": 47.650763,
+        "Lng": 11.955527,
+        "Photos": [
+            "230422_01.jpg",
+            "230422_02.jpg",
+            "230422_03.jpg",
+            "230422_04.jpg"
+        ]
+    },
+    {
+        "Name": "Sa Pa",
+        "Date": "2022-11-23",
+        "From": "Sa Pa",
+        "To": "Sa Pa",
+        "Countries": [
+            "Vietnam"
+        ],
+        "Timezone": "Asia/Bangkok",
+        "Lakes": [
+            "Quy Khach Waterfall"
+        ],
+        "Ascent (m)": 871,
+        "Descent (m)": 882,
+        "Max Elevation (m)": 1475,
+        "Min Elevation (m)": 932,
+        "Distance (km)": 24,
+        "Time (h)": 9,
+        "Difficulty": 1,
+        "Lat": 22.293205,
+        "Lng": 103.90551,
+        "Photos": [
+            "221123_01.jpg",
+            "221123_02.jpg",
+            "221123_03.jpg",
+            "221123_04.jpg",
+            "221123_05.jpg",
+            "221123_06.jpg"
+        ]
+    },
+    {
+        "Name": "Freudenreichsattel",
+        "Date": "2022-07-23",
+        "From": "Spitzingsee Spitzingsattel, Schliersee",
+        "To": "Tegernsee",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Freudenreichsattel"
+        ],
+        "Lakes": [
+            "Spitzingsee",
+            "Tegernsee"
+        ],
+        "Huts": [
+            "Obere Firstalm",
+            "Freudenreich-Alm",
+            "Kühzagl-Alm"
+        ],
+        "Ascent (m)": 349,
+        "Descent (m)": 721,
+        "Max Elevation (m)": 1380,
+        "Min Elevation (m)": 726,
+        "Distance (km)": 16,
+        "Time (h)": 4,
+        "Difficulty": 0,
+        "Lat": 47.6735328,
+        "Lng": 11.8540215,
+        "Photos": [
+            "220723_01.jpg",
+            "220723_02.jpg",
+            "220723_03.jpg",
+            "220723_04.jpg"
+        ]
+    },
+    {
+        "Name": "Vereda do Larano",
+        "Date": "2022-03-16",
+        "From": "Porto da Cruz",
+        "To": "Machico",
+        "Countries": [
+            "Portugal"
+        ],
+        "Timezone": "Atlantic/Madeira",
+        "Peaks": [
+            "Boca do Risco"
+        ],
+        "Ascent (m)": 580,
+        "Descent (m)": 560,
+        "Max Elevation (m)": 376,
+        "Min Elevation (m)": 3,
+        "Distance (km)": 14,
+        "Time (h)": 4,
+        "Difficulty": 0,
+        "Lat": 32.75549,
+        "Lng": -16.772439,
+        "Photos": [
+            "220316_01.jpg",
+            "220316_02.jpg",
+            "220316_03.jpg"
+        ]
+    },
+    {
+        "Name": "Penha de Águia",
+        "Date": "2022-03-15",
+        "From": "Santana",
+        "To": "Porto da Cruz",
+        "Countries": [
+            "Portugal"
+        ],
+        "Timezone": "Atlantic/Madeira",
+        "Peaks": [
+            "Penha de Águia"
+        ],
+        "Lakes": [
+            "Levada da Penha de Águia"
+        ],
+        "Ascent (m)": 770,
+        "Descent (m)": 1168,
+        "Max Elevation (m)": 581,
+        "Min Elevation (m)": 590,
+        "Distance (km)": 12,
+        "Time (h)": 4,
+        "Difficulty": 1,
+        "Lat": 32.779469,
+        "Lng": -16.841265,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 32.7859181,
+                "Lng": -16.8428224,
+                "Description": "Ascent to Penha de Águia – Very steep and can be slippery after rain"
+            }
+        ],
+        "Photos": [
+            "220315_01.jpg",
+            "220315_02.jpg",
+            "220315_03.jpg",
+            "220315_04.jpg"
+        ]
+    },
+    {
+        "Name": "Curral das Freiras",
+        "Date": "2022-03-13",
+        "From": "Curral das Freiras",
+        "To": "Funchal",
+        "Countries": [
+            "Portugal"
+        ],
+        "Timezone": "Atlantic/Madeira",
+        "Peaks": [
+            "Eira do Serrado",
+            "Jardins da Fortaleza"
+        ],
+        "Ascent (m)": 562,
+        "Descent (m)": 1201,
+        "Max Elevation (m)": 1027,
+        "Min Elevation (m)": 21,
+        "Distance (km)": 16,
+        "Time (h)": 5,
+        "Difficulty": 0,
+        "Lat": 32.713309,
+        "Lng": -16.963799,
+        "Photos": [
+            "220313_01.jpg",
+            "220313_02.jpg",
+            "220313_03.jpg"
+        ]
+    },
+    {
+        "Name": "Cassidy Arch",
+        "Date": "2021-12-25",
+        "From": "Cassidy Arch Trailhead",
+        "To": "Cassidy Arch Trailhead",
+        "Countries": [
+            "USA"
+        ],
+        "Timezone": "America/Denver",
+        "Peaks": [
+            "Cassidy Arch"
+        ],
+        "Ascent (m)": 262,
+        "Descent (m)": 262,
+        "Max Elevation (m)": 1826,
+        "Min Elevation (m)": 1650,
+        "Distance (km)": 5,
+        "Time (h)": 2,
+        "Difficulty": 0,
+        "Lat": 38.2610821,
+        "Lng": -111.2254889,
+        "Photos": [
+            "211225_01.jpg",
+            "211225_02.jpg",
+            "211225_03.jpg"
+        ]
+    },
+    {
+        "Name": "Grand Canyon",
+        "Date": "2021-12-21",
+        "From": "Bright Angel Trailhead",
+        "To": "Grand Canyon Visitor Center",
+        "Countries": [
+            "USA"
+        ],
+        "Timezone": "America/Phoenix",
+        "Peaks": [
+            "Indian Garden",
+            "Skeleton Point",
+            "Ohh Ahh Point"
+        ],
+        "Lakes": [
+            "Pipe Creek Beach"
+        ],
+        "Ascent (m)": 1795,
+        "Descent (m)": 1708,
+        "Max Elevation (m)": 2205,
+        "Min Elevation (m)": 745,
+        "Distance (km)": 30,
+        "Time (h)": 12,
+        "Difficulty": 2,
+        "Lat": 36.099279,
+        "Lng": -112.11104,
+        "Photos": [
+            "211221_01.jpg",
+            "211221_02.jpg",
+            "211221_03.jpg",
+            "211221_04.jpg",
+            "211221_05.jpg",
+            "211221_06.jpg",
+            "211221_07.jpg",
+            "211221_08.jpg",
+            "211221_09.jpg"
+        ]
+    },
+    {
+        "Name": "Torrey Pines",
+        "Date": "2021-12-19",
+        "From": "Torrey Pines State Beach",
+        "To": "Gilman Driver, San Diego",
+        "Countries": [
+            "USA"
+        ],
+        "Timezone": "America/Los_Angeles",
+        "Peaks": [
+            "High Point",
+            "Razor Point",
+            "Yucca Point",
+            "Broken Hill Overlook"
+        ],
+        "Ascent (m)": 285,
+        "Descent (m)": 167,
+        "Max Elevation (m)": 137,
+        "Min Elevation (m)": 0,
+        "Distance (km)": 13,
+        "Time (h)": 4,
+        "Difficulty": 0,
+        "Lat": 32.915926,
+        "Lng": -117.25832,
+        "Photos": [
+            "211219_01.jpg",
+            "211219_02.jpg",
+            "211219_03.jpg",
+            "211219_04.jpg"
+        ]
+    },
+    {
+        "Name": "Gaisalphorn",
+        "Date": "2021-08-21",
+        "From": "Altstädten(Allgäu)",
+        "To": "Oberstdorf",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Gaisalphorn",
+            "Niedereck"
+        ],
+        "Lakes": [
+            "Gaisalpsee"
+        ],
+        "Ascent (m)": 1192,
+        "Descent (m)": 1143,
+        "Max Elevation (m)": 1953,
+        "Min Elevation (m)": 756,
+        "Distance (km)": 15,
+        "Time (h)": 6,
+        "Difficulty": 2,
+        "Lat": 47.419365,
+        "Lng": 10.318143,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 47.4195501,
+                "Lng": 10.3176421,
+                "Description": "Descent from Gaisalphorn – Exposed ridge with some tricky sections, which, however, have mostly been made safer by steel cables and a three-meter ladder"
+            }
+        ]
+    },
+    {
+        "Name": "Sigchos",
+        "Date": "2020-03-13",
+        "From": "Chugchilán",
+        "To": "Sigchos",
+        "Countries": [
+            "Ecuador"
+        ],
+        "Timezone": "America/Quito",
+        "Peaks": [
+            "Mirador Cañón del Toachi"
+        ],
+        "Ascent (m)": 482,
+        "Descent (m)": 786,
+        "Max Elevation (m)": 3208,
+        "Min Elevation (m)": 2531,
+        "Distance (km)": 19,
+        "Time (h)": 6,
+        "Difficulty": 0,
+        "Lat": -0.7710409,
+        "Lng": -78.897126,
+        "Photos": [
+            "200313_01.jpg",
+            "200313_02.jpg",
+            "200313_03.jpg"
+        ]
+    },
+    {
+        "Name": "Laguna Quilotoa",
+        "Date": "2020-03-12",
+        "From": "Quilotoa",
+        "To": "Chugchilán",
+        "Countries": [
+            "Ecuador"
+        ],
+        "Timezone": "America/Quito",
+        "Peaks": [
+            "Mirador Macacunga"
+        ],
+        "Lakes": [
+            "Laguna Quilotoa",
+            "Cascada Golondrina"
+        ],
+        "Ascent (m)": 344,
+        "Descent (m)": 1001,
+        "Max Elevation (m)": 3882,
+        "Min Elevation (m)": 3000,
+        "Distance (km)": 13,
+        "Time (h)": 4,
+        "Difficulty": 0,
+        "Lat": -0.8593866,
+        "Lng": -78.904199,
+        "Photos": [
+            "200312_01.jpg",
+            "200312_02.jpg",
+            "200312_03.jpg"
+        ]
+    }
+]
