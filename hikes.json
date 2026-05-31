@@ -1,5 +1,40 @@
 [
     {
+        "Name": "Schellschlicht",
+        "Date": "2026-05-30",
+        "From": "Griesen(Oberbay)",
+        "To": "Griesen(Oberbay)",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Schellschlicht"
+        ],
+        "Ascent (m)": 1313,
+        "Descent (m)": 1318,
+        "Max Elevation (m)": 2052,
+        "Min Elevation (m)": 817,
+        "Distance (km)": 14,
+        "Time (h)": 7,
+        "Difficulty": 2,
+        "Lat": 47.5093,
+        "Lng": 10.916332,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 47.5073591,
+                "Lng": 10.9203822,
+                "Description": "Ascent to Schellschlicht – A steep path, which must now be followed with great caution, as the terrain is crumbly and drops away steeply"
+            }
+        ],
+        "Photos": [
+            "260530_01.jpg",
+            "260530_02.jpg",
+            "260530_03.jpg"
+        ]
+    },
+    {
         "Name": "Aiplspitz",
         "Date": "2026-05-25",
         "From": "Geitau",
