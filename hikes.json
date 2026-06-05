@@ -1,5 +1,36 @@
 [
     {
+        "Name": "Soinwand",
+        "Date": "2026-06-04",
+        "From": "Bayrischzell",
+        "To": "Brannenburg",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Kesselwand",
+            "Soinwand",
+            "Wildalpjoch",
+            "Kaserwand"
+        ],
+        "Ascent (m)": 1262,
+        "Descent (m)": 1565,
+        "Max Elevation (m)": 1756,
+        "Min Elevation (m)": 472,
+        "Distance (km)": 20,
+        "Time (h)": 7,
+        "Difficulty": 1,
+        "Lat": 47.705007,
+        "Lng": 12.021356,
+        "Photos": [
+            "26060401.jpg",
+            "26060402.jpg",
+            "26060403.jpg",
+            "26060404.jpg"
+        ]
+    },
+    {
         "Name": "Schellschlicht",
         "Date": "2026-05-30",
         "From": "Griesen(Oberbay)",
@@ -25,7 +56,7 @@
                 "Fish": 1,
                 "Lat": 47.5073591,
                 "Lng": 10.9203822,
-                "Description": "Ascent to Schellschlicht – A steep path, which must now be followed with great caution, as the terrain is crumbly and drops away steeply"
+                "Description": "Ascent to Schellschlicht – A steep path, which must be followed with great caution, as the terrain is crumbly and drops away steeply"
             }
         ],
         "Photos": [
