@@ -1,5 +1,81 @@
 [
     {
+        "Name": "Kompar",
+        "Date": "2026-06-13",
+        "From": "Hinterriß Kreuzbrücke, Eben am Achensee (A)",
+        "To": "Hinterriß Haglhütte, Vomp (A)",
+        "Countries": [
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Kompar",
+            "Satteljoch",
+            "Plumsjoch"
+        ],
+        "Huts": [
+            "Plumsjochhütte"
+        ],
+        "Ascent (m)": 1498,
+        "Descent (m)": 1409,
+        "Max Elevation (m)": 2011,
+        "Min Elevation (m)": 989,
+        "Distance (km)": 20,
+        "Time (h)": 7,
+        "Difficulty": 2,
+        "Lat": 47.45555,
+        "Lng": 11.584524,
+        "Fish": [
+            {
+                "Fish": 2,
+                "Lat": 47.4603119,
+                "Lng": 11.6112529,
+                "Description": "Ascent towards Montscheinspitze – A steep descent followed by an even steeper ascent, with sections that require scrambling with hands and involve significant exposure"
+            }
+        ],
+        "Photos": [
+            "260613_01.jpg",
+            "260613_02.jpg",
+            "260613_03.jpg",
+            "260613_04.jpg",
+            "260613_05.jpg",
+            "260613_06.jpg",
+            "260613_07.jpg",
+            "260613_08.jpg"
+        ]
+    },
+    {
+        "Name": "Dürnbergjoch",
+        "Date": "2026-06-07",
+        "From": "Fall Abzw. (B307), Lenggries",
+        "To": "Fall Sylvensteinsee (Kraftwerk), Lenggries",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Dürnbergjoch",
+            "Schürpfeneck"
+        ],
+        "Lakes": [
+            "Sylvensteinspeicher"
+        ],
+        "Ascent (m)": 11164,
+        "Descent (m)": 1208,
+        "Max Elevation (m)": 1835,
+        "Min Elevation (m)": 725,
+        "Distance (km)": 19,
+        "Time (h)": 6,
+        "Difficulty": 1,
+        "Lat": 47.548513,
+        "Lng": 11.573355,
+        "Photos": [
+            "260607_01.jpg",
+            "260607_02.jpg",
+            "260607_03.jpg"
+        ]
+    },
+    {
         "Name": "Soinwand",
         "Date": "2026-06-04",
         "From": "Bayrischzell",
