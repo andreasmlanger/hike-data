@@ -1,5 +1,38 @@
 [
     {
+        "Name": "Geierköpfe Westgipfel",
+        "Date": "2026-06-21",
+        "From": "Parkplatz Grenze, Ettal",
+        "To": "Parkplatz Grenze, Ettal",
+        "Countries": [
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Geierköpfe Westgipfel",
+            "Schönjöchl"
+        ],
+        "Lakes": [
+            "Plansee"
+        ],
+        "Ascent (m)": 1323,
+        "Descent (m)": 1433,
+        "Max Elevation (m)": 2143,
+        "Min Elevation (m)": 977,
+        "Distance (km)": 16,
+        "Time (h)": 6,
+        "Difficulty": 2,
+        "Lat": 47.516175,
+        "Lng": 10.865968,
+        "Photos": [
+            "260621_01.jpg",
+            "260621_02.jpg",
+            "260621_03.jpg",
+            "260621_04.jpg",
+            "260621_05.jpg"
+        ]
+    },
+    {
         "Name": "Kompar",
         "Date": "2026-06-13",
         "From": "Hinterriß Kreuzbrücke, Eben am Achensee (A)",
