@@ -1,9 +1,58 @@
 [
     {
+        "Name": "Geierköpfe Überschreitung",
+        "Date": "2026-06-27",
+        "From": "Parkplatz Grenze, Ettal",
+        "To": "Hotel Forelle, Breitenwang (A)",
+        "Countries": [
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Geierköpfe Ostgipfel",
+            "Geierköpfe Hauptgipfel",
+            "Geierköpfe Westgipfel"
+        ],
+        "Lakes": [
+            "Plansee"
+        ],
+        "Ascent (m)": 1289,
+        "Descent (m)": 1399,
+        "Max Elevation (m)": 2161,
+        "Min Elevation (m)": 977,
+        "Distance (km)": 17,
+        "Time (h)": 6,
+        "Difficulty": 2,
+        "Lat": 47.51918,
+        "Lng": 10.8749,
+        "Fish": [
+            {
+                "Fish": 2,
+                "Lat": 47.5183617,
+                "Lng": 10.879505,
+                "Description": "Geierköpfe Traverse – Tricky descent into a large notch before a drop-off"
+            },
+            {
+                "Fish": 2,
+                "Lat": 47.5183711,
+                "Lng": 10.8772826,
+                "Description": "Geierköpfe Traverse – A narrow rock gully leads down a few meters into a small notch, from which one must then climb steeply back up to the ridge over loose rock"
+            }
+        ],
+        "Photos": [
+            "260627_01.jpg",
+            "260627_02.jpg",
+            "260627_03.jpg",
+            "260627_04.jpg",
+            "260627_05.jpg",
+            "260627_06.jpg"
+        ]
+    },
+    {
         "Name": "Geierköpfe Westgipfel",
         "Date": "2026-06-21",
         "From": "Parkplatz Grenze, Ettal",
-        "To": "Parkplatz Grenze, Ettal",
+        "To": "Hotel Forelle, Breitenwang (A)",
         "Countries": [
             "Austria"
         ],
