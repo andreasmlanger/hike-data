@@ -1,5 +1,36 @@
 [
     {
+        "Name": "Taubensee",
+        "Date": "2026-07-25",
+        "From": "Oberwössen Touristinfo, Unterwössen",
+        "To": "Zentrum, Unterwössen",
+        "Countries": [
+            "Germany",
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Sonnwendköpfl",
+            "Gscheuerwand"
+        ],
+        "Lakes": [
+            "Taubensee"
+        ],
+        "Ascent (m)": 980,
+        "Descent (m)": 1071,
+        "Max Elevation (m)": 1288,
+        "Min Elevation (m)": 554,
+        "Distance (km)": 17,
+        "Time (h)": 6,
+        "Difficulty": 0,
+        "Lat": 47.696013,
+        "Lng": 12.426936,
+        "Photos": [
+            "260725_01.jpg",
+            "260725_02.jpg"
+        ]
+    },
+    {
         "Name": "Geierköpfe Überschreitung",
         "Date": "2026-06-27",
         "From": "Parkplatz Grenze, Ettal",
