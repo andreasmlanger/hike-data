@@ -1,5 +1,35 @@
 [
     {
+        "Name": "Rauheck",
+        "Date": "2026-07-31",
+        "From": "Ohlstadt",
+        "To": "Walchensee Ortsmitte, Kochel a. See",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Rauheck"
+        ],
+        "Lakes": [
+            "Walchensee"
+        ],
+        "Ascent (m)": 1018,
+        "Descent (m)": 851,
+        "Max Elevation (m)": 1290,
+        "Min Elevation (m)": 636,
+        "Distance (km)": 14,
+        "Time (h)": 5,
+        "Difficulty": 0,
+        "Lat": 47.613547,
+        "Lng": 11.263007,
+        "Photos": [
+            "260731_01.jpg",
+            "260731_02.jpg",
+            "260731_03.jpg"
+        ]
+    },
+    {
         "Name": "Taubensee",
         "Date": "2026-07-25",
         "From": "Oberwössen Touristinfo, Unterwössen",
