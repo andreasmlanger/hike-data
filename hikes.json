@@ -1,5 +1,39 @@
 [
     {
+        "Name": "Hochegg",
+        "Date": "2026-08-02",
+        "From": "Kufstein",
+        "To": "Kufstein",
+        "Countries": [
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Hochegg"
+        ],
+        "Lakes": [
+            "Hintersteiner See"
+        ],
+        "Huts": [
+            "Kaindlhütte",
+            "Stöfflhütte"
+        ],
+        "Ascent (m)": 1305,
+        "Descent (m)": 1305,
+        "Max Elevation (m)": 1470,
+        "Min Elevation (m)": 480,
+        "Distance (km)": 26,
+        "Time (h)": 7,
+        "Difficulty": 1,
+        "Lat": 47.560276,
+        "Lng": 12.223101,
+        "Photos": [
+            "260802_01.jpg",
+            "260802_02.jpg",
+            "260802_03.jpg"
+        ]
+    },
+    {
         "Name": "Rauheck",
         "Date": "2026-07-31",
         "From": "Ohlstadt",
