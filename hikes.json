@@ -1,5 +1,35 @@
 [
     {
+        "Name": "Sonnjoch",
+        "Date": "2026-08-08",
+        "From": "Hinterriß Gasthaus, Vomp (A)",
+        "To": "Hinterriß Gasthaus, Vomp (A)",
+        "Countries": [
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Sonnjoch"
+        ],
+        "Ascent (m)": 1426,
+        "Descent (m)": 1426,
+        "Max Elevation (m)": 2458,
+        "Min Elevation (m)": 1121,
+        "Distance (km)": 16,
+        "Time (h)": 7,
+        "Difficulty": 1,
+        "Lat": 47.412379,
+        "Lng": 11.605137,
+        "Photos": [
+            "260808_01.jpg",
+            "260808_02.jpg",
+            "260808_03.jpg",
+            "260808_04.jpg",
+            "260808_05.jpg",
+            "260808_06.jpg"
+        ]
+    },
+    {
         "Name": "Hochegg",
         "Date": "2026-08-02",
         "From": "Kufstein",
