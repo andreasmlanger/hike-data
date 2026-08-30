@@ -1,5 +1,43 @@
 [
     {
+        "Name": "Hinteres Sonnwendjoch",
+        "Date": "2026-08-29",
+        "From": "Grenzgasthof Bäckeralm, Bayrischzell",
+        "To": "Johannesbrücke Valepp, Schliersee",
+        "Countries": [
+            "Germany",
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Schönfeldjoch",
+            "Hinteres Sonnwendjoch"
+        ],
+        "Lakes": [
+            "Spitzingsee"
+        ],
+        "Ascent (m)": 1522,
+        "Descent (m)": 1490,
+        "Max Elevation (m)": 1986,
+        "Min Elevation (m)": 820,
+        "Distance (km)": 19,
+        "Time (h)": 7,
+        "Difficulty": 1,
+        "Lat": 47.598579,
+        "Lng": 11.949642,
+        "Photos": [
+            "260829_01.jpg",
+            "260829_02.jpg",
+            "260829_03.jpg",
+            "260829_04.jpg",
+            "260829_05.jpg",
+            "260829_06.jpg",
+            "260829_07.jpg",
+            "260829_08.jpg",
+            "260829_09.jpg"
+        ]
+    },
+    {
         "Name": "Sonnjoch",
         "Date": "2026-08-08",
         "From": "Hinterriß Gasthaus, Vomp (A)",
