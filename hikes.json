@@ -1,5 +1,55 @@
 [
     {
+        "Name": "Krapenkarspitze",
+        "Date": "2026-09-06",
+        "From": "Vorderriß Oswaldhütte, Lenggries",
+        "To": "Wallgau, Alpenhof (Hotel)",
+        "Countries": [
+            "Germany",
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Bayerkarspitze",
+            "Krapfenkarspitze",
+            "Gumpenkarspitze"
+        ],
+        "Lakes": [
+            "Soiernsee"
+        ],
+        "Huts": [
+            "Soiernhaus"
+        ],
+        "Ascent (m)": 1682,
+        "Descent (m)": 1663,
+        "Max Elevation (m)": 2110,
+        "Min Elevation (m)": 815,
+        "Distance (km)": 25,
+        "Time (h)": 9,
+        "Difficulty": 2,
+        "Lat": 47.493548,
+        "Lng": 11.369092,
+        "Fish": [
+            {
+                "Fish": 2,
+                "Lat": 47.494713,
+                "Lng": 11.369755,
+                "Description": "Ascent to Krapfenkarspitze – Steep, pathless ascent over scree; no trail markers; route-finding is difficult in places, relying solely on cairns"
+            }
+        ],
+        "Photos": [
+            "260906_01.jpg",
+            "260906_02.jpg",
+            "260906_03.jpg",
+            "260906_04.jpg",
+            "260906_05.jpg",
+            "260906_06.jpg",
+            "260906_07.jpg",
+            "260906_08.jpg",
+            "260906_09.jpg"
+        ]
+    },
+    {
         "Name": "Hinteres Sonnwendjoch",
         "Date": "2026-08-29",
         "From": "Grenzgasthof Bäckeralm, Bayrischzell",
