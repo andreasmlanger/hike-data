@@ -1,5 +1,49 @@
 [
     {
+        "Name": "Riffelspitze",
+        "Date": "2026-09-12",
+        "From": "Hammersbach, Grainau",
+        "To": "Zugspitzbahnhof, Grainau",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Riffelspitze"
+        ],
+        "Lakes": [
+            "Eibsee"
+        ],
+        "Huts": [
+            "Höllentalangerhütte"
+        ],
+        "Ascent (m)": 1662,
+        "Descent (m)": 1683,
+        "Max Elevation (m)": 2262,
+        "Min Elevation (m)": 748,
+        "Distance (km)": 20,
+        "Time (h)": 8,
+        "Difficulty": 2,
+        "Lat": 47.437218,
+        "Lng": 11.003785,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 47.433262,
+                "Lng": 10.995898,
+                "Description": "Descent to Eibsee – Easy via ferrata, followed by an unpleasantly steep section with loose scree"
+            }
+        ],
+        "Photos": [
+            "260912_01.jpg",
+            "260912_02.jpg",
+            "260912_03.jpg",
+            "260912_04.jpg",
+            "260912_05.jpg",
+            "260912_06.jpg"
+        ]
+    },
+    {
         "Name": "Krapenkarspitze",
         "Date": "2026-09-06",
         "From": "Vorderriß Oswaldhütte, Lenggries",
