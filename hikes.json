@@ -1,5 +1,48 @@
 [
     {
+        "Name": "Steinfalk",
+        "Date": "2026-09-19",
+        "From": "Hinterriß Einstieg Laliderertal, Vomp (A)",
+        "To": "Hinterriß Gasthaus, Vomp (A)",
+        "Countries": [
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Mahnkopf",
+            "Steinfalk"
+        ],
+        "Huts": [
+            "Falkenhütte"
+        ],
+        "Ascent (m)": 1839,
+        "Descent (m)": 1666,
+        "Max Elevation (m)": 2348,
+        "Min Elevation (m)": 1021,
+        "Distance (km)": 25,
+        "Time (h)": 8,
+        "Difficulty": 2,
+        "Lat": 47.427141,
+        "Lng": 11.512359,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 47.424087,
+                "Lng": 11.511653,
+                "Description": "Ascent to Steinfalk – Not difficult, but exposed in places"
+            }
+        ],
+        "Photos": [
+            "260919_01.jpg",
+            "260919_02.jpg",
+            "260919_03.jpg",
+            "260919_04.jpg",
+            "260919_05.jpg",
+            "260919_06.jpg",
+            "260919_07.jpg"
+        ]
+    },
+    {
         "Name": "Riffelspitze",
         "Date": "2026-09-12",
         "From": "Hammersbach, Grainau",
