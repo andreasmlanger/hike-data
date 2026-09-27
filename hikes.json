@@ -1,5 +1,52 @@
 [
     {
+        "Name": "Vorderer Tajakopf",
+        "Date": "2026-09-26",
+        "From": "Ehrwald-Zugspitzbahn",
+        "To": "Ehrwald-Zugspitzbahn",
+        "Countries": [
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Vorderer Tajakopf"
+        ],
+        "Lakes": [
+            "Seebensee",
+            "Drachensee"
+        ],
+        "Huts": [
+            "Coburger Hütte"
+        ],
+        "Ascent (m)": 1758,
+        "Descent (m)": 1758,
+        "Max Elevation (m)": 2442,
+        "Min Elevation (m)": 974,
+        "Distance (km)": 23,
+        "Time (h)": 9,
+        "Difficulty": 2,
+        "Lat": 47.36399,
+        "Lng": 10.947389,
+        "Fish": [
+            {
+                "Fish": 2,
+                "Lat": 47.362762,
+                "Lng": 10.946622,
+                "Description": "Ascent to Vorderer Tajakopf – Requires some climbing skills in the final section"
+            }
+        ],
+        "Photos": [
+            "260926_01.jpg",
+            "260926_02.jpg",
+            "260926_03.jpg",
+            "260926_04.jpg",
+            "260926_05.jpg",
+            "260926_06.jpg",
+            "260926_07.jpg",
+            "260926_08.jpg"
+        ]
+    },
+    {
         "Name": "Steinfalk",
         "Date": "2026-09-19",
         "From": "Hinterriß Einstieg Laliderertal, Vomp (A)",
