@@ -1,5 +1,57 @@
 [
     {
+        "Name": "Sonnenspitze",
+        "Date": "2026-10-03",
+        "From": "Ehrwald-Zugspitzbahn",
+        "To": "Ehrwald-Zugspitzbahn",
+        "Countries": [
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Sonnenspitze"
+        ],
+        "Lakes": [
+            "Seebensee",
+            "Drachensee"
+        ],
+        "Huts": [
+            "Coburger Hütte"
+        ],
+        "Ascent (m)": 1925,
+        "Descent (m)": 1925,
+        "Max Elevation (m)": 2417,
+        "Min Elevation (m)": 973,
+        "Distance (km)": 24,
+        "Time (h)": 9,
+        "Difficulty": 3,
+        "Lat": 47.368247,
+        "Lng": 10.921911,
+        "Fish": [
+            {
+                "Fish": 3,
+                "Lat": 47.368653,
+                "Lng": 10.922053,
+                "Description": "Descent from Sonnenspitze – Absolute surefootedness and solid climbing skills are essential"
+            },
+            {
+                "Fish": 3,
+                "Lat": 47.363966,
+                "Lng": 10.92207,
+                "Description": "Ascent to Sonnenspitze – Absolute surefootedness and solid climbing skills are essential"
+            }
+        ],
+        "Photos": [
+            "261003_01.jpg",
+            "261003_02.jpg",
+            "261003_03.jpg",
+            "261003_04.jpg",
+            "261003_05.jpg",
+            "261003_06.jpg",
+            "261003_07.jpg"
+        ]
+    },
+    {
         "Name": "Vorderer Tajakopf",
         "Date": "2026-09-26",
         "From": "Ehrwald-Zugspitzbahn",
