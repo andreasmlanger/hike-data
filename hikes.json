@@ -1,5 +1,32 @@
 [
     {
+        "Name": "Steinerner Jäger",
+        "Date": "2026-10-17",
+        "From": "Piding",
+        "To": "Teisendorf",
+        "Countries": [
+            "Germany"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Fuderheustein",
+            "Steinerner Jäger",
+            "Hochstaufen"
+        ],
+        "Huts": [
+            "Reichenhaller Haus"
+        ],
+        "Ascent (m)": 1541,
+        "Descent (m)": 1490,
+        "Max Elevation (m)": 1771,
+        "Min Elevation (m)": 452,
+        "Distance (km)": 23,
+        "Time (h)": 8,
+        "Difficulty": 2,
+        "Lat": 47.753917,
+        "Lng": 12.86019
+    },
+    {
         "Name": "Sonnenspitze",
         "Date": "2026-10-03",
         "From": "Ehrwald-Zugspitzbahn",
