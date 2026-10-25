@@ -1,5 +1,42 @@
 [
     {
+        "Name": "Spitzstein",
+        "Date": "2026-10-24",
+        "From": "Aschau (Chiemgau)",
+        "To": "Oberaudorf",
+        "Countries": [
+            "Germany",
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Spitzstein"
+        ],
+        "Ascent (m)": 1229,
+        "Descent (m)": 1353,
+        "Max Elevation (m)": 1598,
+        "Min Elevation (m)": 468,
+        "Distance (km)": 25,
+        "Time (h)": 7,
+        "Difficulty": 1,
+        "Lat": 47.710952,
+        "Lng": 12.24693,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 47.710861,
+                "Lng": 12.247259,
+                "Description": "Ascent to Spitzstein via Nordwandsteig – Steep, well-secured with cables, but can be slippery after rain"
+            }
+        ],
+        "Photos": [
+            "261024_01.jpg",
+            "261024_02.jpg",
+            "261024_03.jpg",
+            "261024_04.jpg"
+        ]
+    },
+    {
         "Name": "Steinerner Jäger",
         "Date": "2026-10-17",
         "From": "Piding",
