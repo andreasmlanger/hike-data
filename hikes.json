@@ -1,5 +1,45 @@
 [
     {
+        "Name": "Schildenstein",
+        "Date": "2026-10-31",
+        "From": "Wildbad, Kreuth",
+        "To": "Klamm, Kreuth",
+        "Countries": [
+            "Germany",
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Prediktstuhl",
+            "Schildenstein",
+            "Reitstein"
+        ],
+        "Ascent (m)": 1193,
+        "Descent (m)": 1159,
+        "Max Elevation (m)": 1613,
+        "Min Elevation (m)": 793,
+        "Distance (km)": 21,
+        "Time (h)": 7,
+        "Difficulty": 1,
+        "Lat": 47.59481,
+        "Lng": 11.724991,
+        "Fish": [
+            {
+                "Fish": 1,
+                "Lat": 47.595322,
+                "Lng": 11.7376835,
+                "Description": "Wolfsschlucht – Several steep sections and steel cable passages"
+            }
+        ],
+        "Photos": [
+            "261031_01.jpg",
+            "261031_02.jpg",
+            "261031_03.jpg",
+            "261031_04.jpg",
+            "261031_05.jpg"
+        ]
+    },
+    {
         "Name": "Spitzstein",
         "Date": "2026-10-24",
         "From": "Aschau (Chiemgau)",
@@ -2640,7 +2680,7 @@
     {
         "Name": "Hirschberg",
         "Date": "2025-04-20",
-        "From": "Wildbad Klamm, Kreuth",
+        "From": "Klamm, Kreuth",
         "To": "Oberhof Naturkäserei, Kreuth",
         "Countries": [
             "Germany"
@@ -4266,7 +4306,7 @@
         "Lng": 11.7810788,
         "Fish": [
             {
-                "Fish": 2,
+                "Fish": 1,
                 "Lat": 47.595322,
                 "Lng": 11.7376835,
                 "Description": "Wolfsschlucht – Several steep sections and steel cable passages"
