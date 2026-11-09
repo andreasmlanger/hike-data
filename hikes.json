@@ -1,5 +1,39 @@
 [
     {
+        "Name": "Petersköpfl",
+        "Date": "2026-11-08",
+        "From": "Oberaudorf",
+        "To": "Kufstein",
+        "Countries": [
+            "Germany",
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Naunspitze",
+            "Petersköpfl"
+        ],
+        "Ascent (m)": 1367,
+        "Descent (m)": 1365,
+        "Max Elevation (m)": 1745,
+        "Min Elevation (m)": 468,
+        "Distance (km)": 12,
+        "Time (h)": 7,
+        "Difficulty": 1,
+        "Lat": 47.60898,
+        "Lng": 12.246396,
+        "Photos": [
+            "261108_01.jpg",
+            "261108_02.jpg",
+            "261108_03.jpg",
+            "261108_04.jpg",
+            "261108_05.jpg",
+            "261108_06.jpg",
+            "261108_07.jpg",
+            "261108_08.jpg"
+        ]
+    },
+    {
         "Name": "Schildenstein",
         "Date": "2026-10-31",
         "From": "Wildbad, Kreuth",
