@@ -1,5 +1,41 @@
 [
     {
+        "Name": "Vierkaser",
+        "Date": "2026-11-14",
+        "From": "Piding",
+        "To": "Bad Reichenhall",
+        "Countries": [
+            "Germany",
+            "Austria"
+        ],
+        "Timezone": "Europe/Berlin",
+        "Peaks": [
+            "Roverkreuz"
+        ],
+        "Huts": [
+            "Klingeralm",
+            "Vierkaser"
+        ],
+        "Ascent (m)": 1279,
+        "Descent (m)": 1265,
+        "Max Elevation (m)": 1606,
+        "Min Elevation (m)": 449,
+        "Distance (km)": 20,
+        "Time (h)": 7,
+        "Difficulty": 1,
+        "Lat": 47.714747,
+        "Lng": 12.952158,
+        "Photos": [
+            "261114_01.jpg",
+            "261114_02.jpg",
+            "261114_03.jpg",
+            "261114_04.jpg",
+            "261114_05.jpg",
+            "261114_06.jpg",
+            "261114_07.jpg"
+        ]
+    },
+    {
         "Name": "Petersköpfl",
         "Date": "2026-11-08",
         "From": "Oberaudorf",
